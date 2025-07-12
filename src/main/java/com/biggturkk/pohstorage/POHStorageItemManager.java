@@ -2,22 +2,30 @@ package com.biggturkk.pohstorage;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
+import lombok.Getter;
 import lombok.extern.slf4j.Slf4j;
 import javax.inject.Inject;
 import javax.inject.Singleton;
 import java.io.InputStreamReader;
 import java.lang.reflect.Type;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.Objects;
+import java.util.*;
 
 @Slf4j
 @Singleton
 public class POHStorageItemManager {
     private final Map<Integer, List<StorageType>> itemStorageMap = new HashMap<>();
+    private final Map<StorageType, Map<String, List<ItemEntry>>> itemsBySet = new HashMap<>();
+
+    @Getter
+    public static class ItemEntry {
+        final int id;
+        final String name;
+
+        ItemEntry(int id, String name) {
+            this.id = id;
+            this.name = name;
+        }
+    }
 
     @Inject
     public POHStorageItemManager() {
@@ -29,14 +37,37 @@ public class POHStorageItemManager {
         try (InputStreamReader reader = new InputStreamReader(
                 Objects.requireNonNull(getClass().getResourceAsStream("/storable_items.json"),
                         "Missing resource: /storable_items.json"))) {
-            Type mapType = new TypeToken<Map<String, List<Integer>>>() {}.getType();
-            Map<String, List<Integer>> map = new Gson().fromJson(reader, mapType);
+            Type mapType = new TypeToken<Map<String, List<Map<String, Object>>>>() {}.getType();
+            Map<String, List<Map<String, Object>>> map = new Gson().fromJson(reader, mapType);
 
-            for (Map.Entry<String, List<Integer>> entry : map.entrySet()) {
-                StorageType storageType = StorageType.valueOf(entry.getKey());
-                log.info("Loading storage type: {} with {} item IDs", storageType, entry.getValue().size());
-                for (Integer itemId : entry.getValue()) {
-                    itemStorageMap.computeIfAbsent(itemId, k -> new ArrayList<>()).add(storageType);
+            for (StorageType type : StorageType.values()) {
+                itemsBySet.put(type, new HashMap<>());
+            }
+
+            for (Map.Entry<String, List<Map<String, Object>>> entry : map.entrySet()) {
+                try {
+                    StorageType storageType = StorageType.valueOf(entry.getKey());
+                    Map<String, List<ItemEntry>> setMap = itemsBySet.get(storageType);
+
+                    for (Map<String, Object> set : entry.getValue()) {
+                        String setName = (String) set.get("set_name");
+                        @SuppressWarnings("unchecked")
+                        List<Map<String, Object>> items = (List<Map<String, Object>>) set.get("items");
+                        List<ItemEntry> itemEntries = new ArrayList<>();
+
+                        for (Map<String, Object> item : items) {
+                            int itemId = ((Double) item.get("id")).intValue();
+                            String itemName = (String) item.get("name");
+                            itemEntries.add(new ItemEntry(itemId, itemName));
+
+                            // Update itemStorageMap
+                            itemStorageMap.computeIfAbsent(itemId, k -> new ArrayList<>()).add(storageType);
+                        }
+
+                        setMap.put(setName, itemEntries);
+                    }
+                } catch (IllegalArgumentException e) {
+                    log.warn("Unknown storage type in JSON: {}", entry.getKey());
                 }
             }
 
@@ -44,8 +75,9 @@ public class POHStorageItemManager {
             log.info("📦 Loaded {} total unique item IDs", itemStorageMap.size());
             log.info("🧾 Item ID List: {}", itemStorageMap.keySet());
         } catch (Exception ex) {
-            log.info("❌ Failed to load storable_items.json", ex);
-            itemStorageMap.clear(); // Ensure map is empty if loading fails
+            log.error("❌ Failed to load storable_items.json", ex);
+            itemStorageMap.clear();
+            itemsBySet.clear();
         }
     }
 
@@ -53,8 +85,11 @@ public class POHStorageItemManager {
         return itemStorageMap.getOrDefault(itemId, Collections.emptyList());
     }
 
-    // Corrected method to return all item IDs
     public List<Integer> getAllItemIds() {
         return new ArrayList<>(itemStorageMap.keySet());
+    }
+
+    public Map<String, List<ItemEntry>> getItemsBySet(StorageType type) {
+        return itemsBySet.getOrDefault(type, Collections.emptyMap());
     }
 }

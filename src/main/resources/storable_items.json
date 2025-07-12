@@ -1,35 +1,1880 @@
 {
   "ARMOUR_CASE": [
-    1119, 7364, 7366, 7368, 7370, 7372, 7374, 10330, 10332, 10334, 10336, 10338,
-    11864, 11865, 11862, 2661, 2663, 2665, 2667, 2669, 3481, 3483, 3485, 3486,
-    10589, 10591, 10592
+    {
+      "set_name": "Studded Leather (g)",
+      "items": [
+        {"id": 7362, "name": "Studded body (g)"},
+        {"id": 7364, "name": "Studded chaps (g)"}
+      ]
+    },
+    {
+      "set_name": "Studded Leather (t)",
+      "items": [
+        {"id": 7366, "name": "Studded body (t)"},
+        {"id": 7368, "name": "Studded chaps (t)"}
+      ]
+    },
+    {
+      "set_name": "Black Dragonhide (g)",
+      "items": [
+        {"id": 12381, "name": "Black d'hide body (g)"},
+        {"id": 12383, "name": "Black d'hide chaps (g)"}
+      ]
+    },
+    {
+      "set_name": "Black Dragonhide (t)",
+      "items": [
+        {"id": 12385, "name": "Black d'hide body (t)"},
+        {"id": 12387, "name": "Black d'hide chaps (t)"}
+      ]
+    },
+    {
+      "set_name": "3rd Age Melee",
+      "items": [
+        {"id": 10330, "name": "3rd age platelegs"},
+        {"id": 10332, "name": "3rd age platebody"},
+        {"id": 10334, "name": "3rd age full helmet"},
+        {"id": 10336, "name": "3rd age kiteshield"}
+      ]
+    },
+    {
+      "set_name": "3rd Age Druidic",
+      "items": [
+        {"id": 23303, "name": "3rd age druidic robe top"},
+        {"id": 23306, "name": "3rd age druidic robe bottoms"},
+        {"id": 23309, "name": "3rd age druidic cloak"},
+        {"id": 23312, "name": "3rd age druidic staff"}
+      ]
+    },
+    {
+      "set_name": "Guthix Dragonhide",
+      "items": [
+        {"id": 10376, "name": "Guthix d'hide body"},
+        {"id": 10378, "name": "Guthix d'hide chaps"},
+        {"id": 19933, "name": "Guthix d'hide boots"}
+      ]
+    },
+    {
+      "set_name": "Saradomin Dragonhide",
+      "items": [
+        {"id": 10384, "name": "Saradomin d'hide body"},
+        {"id": 10386, "name": "Saradomin d'hide chaps"},
+        {"id": 19936, "name": "Saradomin d'hide boots"}
+      ]
+    },
+    {
+      "set_name": "Zamorak Dragonhide",
+      "items": [
+        {"id": 10368, "name": "Zamorak d'hide body"},
+        {"id": 10370, "name": "Zamorak d'hide chaps"},
+        {"id": 19927, "name": "Zamorak d'hide boots"}
+      ]
+    },
+    {
+      "set_name": "Gilded Armour",
+      "items": [
+        {"id": 3481, "name": "Gilded platebody"},
+        {"id": 3483, "name": "Gilded platelegs"},
+        {"id": 3485, "name": "Gilded kiteshield"},
+        {"id": 3486, "name": "Gilded full helm"}
+      ]
+    },
+    {
+      "set_name": "Granite Armour",
+      "items": [
+        {"id": 10589, "name": "Granite body"},
+        {"id": 10564, "name": "Granite legs"},
+        {"id": 10584, "name": "Granite shield"}
+      ]
+    },
+    {
+      "set_name": "Ancient Dragonhide",
+      "items": [
+        {"id": 19594, "name": "Ancient d'hide body"},
+        {"id": 19596, "name": "Ancient d'hide chaps"},
+        {"id": 19921, "name": "Ancient d'hide boots"}
+      ]
+    },
+    {
+      "set_name": "Bandos Dragonhide",
+      "items": [
+        {"id": 12512, "name": "Bandos d'hide body"},
+        {"id": 12514, "name": "Bandos d'hide chaps"},
+        {"id": 19924, "name": "Bandos d'hide boots"}
+      ]
+    },
+    {
+      "set_name": "Armadyl Dragonhide",
+      "items": [
+        {"id": 12504, "name": "Armadyl d'hide body"},
+        {"id": 12506, "name": "Armadyl d'hide chaps"},
+        {"id": 19930, "name": "Armadyl d'hide boots"}
+      ]
+    },
+    {
+      "set_name": "Adventurer’s Outfit (Tier 1)",
+      "items": [
+        {"id": 23209, "name": "Adventurer's hood (t1)"},
+        {"id": 23212, "name": "Adventurer's tunic (t1)"},
+        {"id": 23215, "name": "Adventurer's trousers (t1)"},
+        {"id": 23218, "name": "Adventurer's boots (t1)"}
+      ]
+    },
+    {
+      "set_name": "Adventurer’s Outfit (Tier 2)",
+      "items": [
+        {"id": 23221, "name": "Adventurer's hood (t2)"},
+        {"id": 23224, "name": "Adventurer's tunic (t2)"},
+        {"id": 23227, "name": "Adventurer's trousers (t2)"},
+        {"id": 23230, "name": "Adventurer's boots (t2)"}
+      ]
+    },
+    {
+      "set_name": "Adventurer’s Outfit (Tier 3)",
+      "items": [
+        {"id": 23233, "name": "Adventurer's hood (t3)"},
+        {"id": 23236, "name": "Adventurer's tunic (t3)"},
+        {"id": 23239, "name": "Adventurer's trousers (t3)"},
+        {"id": 23242, "name": "Adventurer's boots (t3)"}
+      ]
+    },
+    {
+      "set_name": "Angler’s Outfit",
+      "items": [
+        {"id": 13258, "name": "Angler hat"},
+        {"id": 13259, "name": "Angler top"},
+        {"id": 13260, "name": "Angler waders"},
+        {"id": 13261, "name": "Angler boots"}
+      ]
+    },
+    {
+      "set_name": "Spirit Angler’s Outfit",
+      "items": [
+        {"id": 25013, "name": "Spirit angler headband"},
+        {"id": 25016, "name": "Spirit angler top"},
+        {"id": 25019, "name": "Spirit angler waders"},
+        {"id": 25022, "name": "Spirit angler boots"}
+      ]
+    },
+    {
+      "set_name": "Ardougne Knight Armour",
+      "items": [
+        {"id": 23245, "name": "Ardougne knight helm"},
+        {"id": 23248, "name": "Ardougne knight platebody"},
+        {"id": 23251, "name": "Ardougne knight platelegs"}
+      ]
+    },
+    {
+      "set_name": "Bomber Jacket Costume",
+      "items": [
+        {"id": 23354, "name": "Bomber cap"},
+        {"id": 23357, "name": "Bomber jacket"}
+      ]
+    },
+    {
+      "set_name": "Builder’s Costume",
+      "items": [
+        {"id": 10862, "name": "Builder's shirt"},
+        {"id": 10863, "name": "Builder's trousers"},
+        {"id": 10864, "name": "Builder's apron"},
+        {"id": 10865, "name": "Builder's boots"}
+      ]
+    },
+    {
+      "set_name": "Camouflage Gear (Desert)",
+      "items": [
+        {"id": 10061, "name": "Desert camo top"},
+        {"id": 10063, "name": "Desert camo legs"}
+      ]
+    },
+    {
+      "set_name": "Camouflage Gear (Jungle)",
+      "items": [
+        {"id": 10057, "name": "Jungle camo top"},
+        {"id": 10059, "name": "Jungle camo legs"}
+      ]
+    },
+    {
+      "set_name": "Camouflage Gear (Polar)",
+      "items": [
+        {"id": 10065, "name": "Polar camo top"},
+        {"id": 10067, "name": "Polar camo legs"}
+      ]
+    },
+    {
+      "set_name": "Camouflage Gear (Woodland)",
+      "items": [
+        {"id": 10053, "name": "Wood camo top"},
+        {"id": 10055, "name": "Wood camo legs"}
+      ]
+    },
+    {
+      "set_name": "Canes",
+      "items": [
+        {"id": 26239, "name": "Raging echoes cane"},
+        {"id": 25010, "name": "Shattered cane"},
+        {"id": 25007, "name": "Trailblazer cane"},
+        {"id": 23673, "name": "Twisted cane"}
+      ]
+    },
+    {
+      "set_name": "Castle Wars Armour (Basic)",
+      "items": [
+        {"id": 4504, "name": "Basic decorative helm"},
+        {"id": 4505, "name": "Basic decorative platebody"},
+        {"id": 4506, "name": "Basic decorative platelegs"},
+        {"id": 4507, "name": "Basic decorative shield"}
+      ]
+    },
+    {
+      "set_name": "Castle Wars Armour (Detailed)",
+      "items": [
+        {"id": 4511, "name": "Detailed decorative helm"},
+        {"id": 4512, "name": "Detailed decorative platebody"},
+        {"id": 4513, "name": "Detailed decorative platelegs"},
+        {"id": 4514, "name": "Detailed decorative shield"}
+      ]
+    },
+    {
+      "set_name": "Castle Wars Armour (Intricate)",
+      "items": [
+        {"id": 4515, "name": "Intricate decorative helm"},
+        {"id": 4516, "name": "Intricate decorative platebody"},
+        {"id": 4517, "name": "Intricate decorative platelegs"},
+        {"id": 4518, "name": "Intricate decorative shield"}
+      ]
+    },
+    {
+      "set_name": "Clue Hunter Outfit",
+      "items": [
+        {"id": 19836, "name": "Clue hunter gloves"},
+        {"id": 19837, "name": "Clue hunter boots"},
+        {"id": 19838, "name": "Clue hunter trousers"},
+        {"id": 19839, "name": "Clue hunter cloak"},
+        {"id": 19840, "name": "Clue hunter garb"}
+      ]
+    },
+    {
+      "set_name": "Corrupted Armour",
+      "items": [
+        {"id": 25592, "name": "Corrupted helm"},
+        {"id": 25594, "name": "Corrupted platebody"},
+        {"id": 25596, "name": "Corrupted platelegs"}
+      ]
+    },
+    {
+      "set_name": "Deadman Armour",
+      "items": [
+        {"id": 25612, "name": "Deadman hood"},
+        {"id": 25614, "name": "Deadman tunic"},
+        {"id": 25616, "name": "Deadman trousers"}
+      ]
+    },
+    {
+      "set_name": "Dragonstone Armour",
+      "items": [
+        {"id": 23667, "name": "Dragonstone full helm"},
+        {"id": 23668, "name": "Dragonstone platebody"},
+        {"id": 23669, "name": "Dragonstone platelegs"},
+        {"id": 23670, "name": "Dragonstone boots"},
+        {"id": 23671, "name": "Dragonstone gauntlets"}
+      ]
+    },
+    {
+      "set_name": "Elite Black Armour",
+      "items": [
+        {"id": 874, "name": "Black elite platebody"},
+        {"id": 876, "name": "Black elite platelegs"},
+        {"id": 878, "name": "Black elite full helm"}
+      ]
+    },
+    {
+      "set_name": "Farmer’s Outfit",
+      "items": [
+        {"id": 13642, "name": "Farmer's jacket"},
+        {"id": 13643, "name": "Farmer's trousers"},
+        {"id": 13644, "name": "Farmer's hat"},
+        {"id": 13645, "name": "Farmer's boots"}
+      ]
+    },
+    {
+      "set_name": "Fedora",
+      "items": [
+        {"id": 13175, "name": "Fedora"}
+      ]
+    },
+    {
+      "set_name": "H.A.M. Robes",
+      "items": [
+        {"id": 4302, "name": "H.A.M. shirt"},
+        {"id": 4304, "name": "H.A.M. robe"},
+        {"id": 4308, "name": "H.A.M. hood"},
+        {"id": 4310, "name": "H.A.M. cloak"}
+      ]
+    },
+    {
+      "set_name": "Halos",
+      "items": [
+        {"id": 12637, "name": "Saradomin halo"},
+        {"id": 12638, "name": "Zamorak halo"},
+        {"id": 12639, "name": "Guthix halo"},
+        {"id": 20164, "name": "Ancient halo"},
+        {"id": 24198, "name": "Armadyl halo"},
+        {"id": 24200, "name": "Bandos halo"},
+        {"id": 24202, "name": "Seren halo"},
+        {"id": 24204, "name": "Brassica halo"}
+      ]
+    },
+    {
+      "set_name": "Helm of Raedwald",
+      "items": [
+        {"id": 19835, "name": "Helm of raedwald"}
+      ]
+    },
+    {
+      "set_name": "Hunter Gear (Graahk)",
+      "items": [
+        {"id": 10051, "name": "Graahk headdress"},
+        {"id": 10053, "name": "Graahk top"},
+        {"id": 10055, "name": "Graahk legs"}
+      ]
+    },
+    {
+      "set_name": "Hunter Gear (Kyatt)",
+      "items": [
+        {"id": 10039, "name": "Kyatt hat"},
+        {"id": 10041, "name": "Kyatt top"},
+        {"id": 10043, "name": "Kyatt legs"}
+      ]
+    },
+    {
+      "set_name": "Hunter Gear (Larupia)",
+      "items": [
+        {"id": 10045, "name": "Larupia hat"},
+        {"id": 10047, "name": "Larupia top"},
+        {"id": 10049, "name": "Larupia legs"}
+      ]
+    },
+    {
+      "set_name": "Inquisitor’s Armour",
+      "items": [
+        {"id": 24419, "name": "Inquisitor's great helm"},
+        {"id": 24420, "name": "Inquisitor's hauberk"},
+        {"id": 24421, "name": "Inquisitor's plateskirt"}
+      ]
+    },
+    {
+      "set_name": "Justiciar Armour",
+      "items": [
+        {"id": 22327, "name": "Justiciar faceguard"},
+        {"id": 22328, "name": "Justiciar chestguard"},
+        {"id": 22329, "name": "Justiciar legguards"}
+      ]
+    },
+    {
+      "set_name": "Lumberjack Costume",
+      "items": [
+        {"id": 10941, "name": "Lumberjack top"},
+        {"id": 10942, "name": "Lumberjack legs"},
+        {"id": 10943, "name": "Lumberjack hat"},
+        {"id": 10944, "name": "Lumberjack boots"}
+      ]
+    },
+    {
+      "set_name": "Lumberjack Costume (Forestry)",
+      "items": [
+        {"id": 25636, "name": "Forestry top"},
+        {"id": 25638, "name": "Forestry legs"},
+        {"id": 25640, "name": "Forestry hat"},
+        {"id": 25642, "name": "Forestry boots"}
+      ]
+    },
+    {
+      "set_name": "Masori Armour",
+      "items": [
+        {"id": 27355, "name": "Masori mask"},
+        {"id": 27357, "name": "Masori body"},
+        {"id": 27359, "name": "Masori chaps"}
+      ]
+    },
+    {
+      "set_name": "Masori Armour (Fortified)",
+      "items": [
+        {"id": 27352, "name": "Masori mask (f)"},
+        {"id": 27354, "name": "Masori body (f)"},
+        {"id": 27356, "name": "Masori chaps (f)"}
+      ]
+    },
+    {
+      "set_name": "Mining Gloves",
+      "items": [
+        {"id": 21392, "name": "Mining gloves"},
+        {"id": 21394, "name": "Superior mining gloves"},
+        {"id": 21396, "name": "Expert mining gloves"}
+      ]
+    },
+    {
+      "set_name": "Mixed Hide Armour",
+      "items": [
+        {"id": 23426, "name": "Mixed hide coif"},
+        {"id": 23428, "name": "Mixed hide top"},
+        {"id": 23430, "name": "Mixed hide legs"},
+        {"id": 23432, "name": "Mixed hide cape"}
+      ]
+    },
+    {
+      "set_name": "Mourner Gear",
+      "items": [
+        {"id": 6065, "name": "Mourner mask"},
+        {"id": 6066, "name": "Mourner top"},
+        {"id": 6067, "name": "Mourner trousers"},
+        {"id": 6068, "name": "Mourner gloves"},
+        {"id": 6069, "name": "Mourner boots"},
+        {"id": 6070, "name": "Mourner cloak"}
+      ]
+    },
+    {
+      "set_name": "Oathplate Armour",
+      "items": [
+        {"id": 25598, "name": "Oathplate helm"},
+        {"id": 25600, "name": "Oathplate body"},
+        {"id": 25602, "name": "Oathplate legs"}
+      ]
+    },
+    {
+      "set_name": "Obsidian Armour",
+      "items": [
+        {"id": 21298, "name": "Obsidian helmet"},
+        {"id": 21301, "name": "Obsidian platebody"},
+        {"id": 21304, "name": "Obsidian platelegs"}
+      ]
+    },
+    {
+      "set_name": "Ornate Armour",
+      "items": [
+        {"id": 23360, "name": "Ornate gloves"},
+        {"id": 23363, "name": "Ornate boots"},
+        {"id": 23366, "name": "Ornate cape"}
+      ]
+    },
+    {
+      "set_name": "Penance Equipment",
+      "items": [
+        {"id": 10547, "name": "Healer hat"},
+        {"id": 10548, "name": "Fighter hat"},
+        {"id": 10549, "name": "Runner boots"},
+        {"id": 10550, "name": "Ranger hat"},
+        {"id": 10551, "name": "Fighter torso"},
+        {"id": 10552, "name": "Runner hat"},
+        {"id": 10553, "name": "Penance skirt"},
+        {"id": 10555, "name": "Penance gloves"}
+      ]
+    },
+    {
+      "set_name": "Prospector Kit",
+      "items": [
+        {"id": 12013, "name": "Prospector jacket"},
+        {"id": 12014, "name": "Prospector legs"},
+        {"id": 12015, "name": "Prospector helmet"},
+        {"id": 12016, "name": "Prospector boots"}
+      ]
+    },
+    {
+      "set_name": "Prospector Kit (Golden)",
+      "items": [
+        {"id": 20787, "name": "Golden prospector jacket"},
+        {"id": 20788, "name": "Golden prospector legs"},
+        {"id": 20789, "name": "Golden prospector helmet"},
+        {"id": 20790, "name": "Golden prospector boots"}
+      ]
+    },
+    {
+      "set_name": "Radiant Oathplate Armour",
+      "items": [
+        {"id": 25604, "name": "Radiant oathplate helm"},
+        {"id": 25606, "name": "Radiant oathplate body"},
+        {"id": 25608, "name": "Radiant oathplate legs"}
+      ]
+    },
+    {
+      "set_name": "Raging Echoes Relic Hunter (T1)",
+      "items": [
+        {"id": 26323, "name": "Relic hunter (t1) top"},
+        {"id": 26325, "name": "Relic hunter (t1) legs"},
+        {"id": 26327, "name": "Relic hunter (t1) boots"}
+      ]
+    },
+    {
+      "set_name": "Raging Echoes Relic Hunter (T2)",
+      "items": [
+        {"id": 26329, "name": "Relic hunter (t2) top"},
+        {"id": 26331, "name": "Relic hunter (t2) legs"},
+        {"id": 26333, "name": "Relic hunter (t2) boots"}
+      ]
+    },
+    {
+      "set_name": "Raging Echoes Relic Hunter (T3)",
+      "items": [
+        {"id": 26335, "name": "Relic hunter (t3) top"},
+        {"id": 26337, "name": "Relic hunter (t3) legs"},
+        {"id": 26339, "name": "Relic hunter (t3) boots"}
+      ]
+    },
+    {
+      "set_name": "Shattered Relic Hunter (T1)",
+      "items": [
+        {"id": 26503, "name": "Shattered relic hunter (t1) top"},
+        {"id": 26505, "name": "Shattered relic hunter (t1) legs"},
+        {"id": 26507, "name": "Shattered relic hunter (t1) boots"}
+      ]
+    },
+    {
+      "set_name": "Shattered Relic Hunter (T2)",
+      "items": [
+        {"id": 26509, "name": "Shattered relic hunter (t2) top"},
+        {"id": 26511, "name": "Shattered relic hunter (t2) legs"},
+        {"id": 26513, "name": "Shattered relic hunter (t2) boots"}
+      ]
+    },
+    {
+      "set_name": "Shattered Relic Hunter (T3)",
+      "items": [
+        {"id": 26515, "name": "Shattered relic hunter (t3) top"},
+        {"id": 26517, "name": "Shattered relic hunter (t3) legs"},
+        {"id": 26519, "name": "Shattered relic hunter (t3) boots"}
+      ]
+    },
+    {
+      "set_name": "Shayzien Armour (Tier 1)",
+      "items": [
+        {"id": 13353, "name": "Shayzien helm (1)"},
+        {"id": 13354, "name": "Shayzien platebody (1)"},
+        {"id": 13355, "name": "Shayzien greaves (1)"},
+        {"id": 13356, "name": "Shayzien gloves (1)"},
+        {"id": 13357, "name": "Shayzien boots (1)"}
+      ]
+    },
+    {
+      "set_name": "Shayzien Armour (Tier 2)",
+      "items": [
+        {"id": 13358, "name": "Shayzien helm (2)"},
+        {"id": 13359, "name": "Shayzien platebody (2)"},
+        {"id": 13360, "name": "Shayzien greaves (2)"},
+        {"id": 13361, "name": "Shayzien gloves (2)"},
+        {"id": 13362, "name": "Shayzien boots (2)"}
+      ]
+    },
+    {
+      "set_name": "Shayzien Armour (Tier 3)",
+      "items": [
+        {"id": 13363, "name": "Shayzien helm (3)"},
+        {"id": 13364, "name": "Shayzien platebody (3)"},
+        {"id": 13365, "name": "Shayzien greaves (3)"},
+        {"id": 13366, "name": "Shayzien gloves (3)"},
+        {"id": 13367, "name": "Shayzien boots (3)"}
+      ]
+    },
+    {
+      "set_name": "Shayzien Armour (Tier 4)",
+      "items": [
+        {"id": 13368, "name": "Shayzien helm (4)"},
+        {"id": 13369, "name": "Shayzien platebody (4)"},
+        {"id": 13370, "name": "Shayzien greaves (4)"},
+        {"id": 13371, "name": "Shayzien gloves (4)"},
+        {"id": 13372, "name": "Shayzien boots (4)"}
+      ]
+    },
+    {
+      "set_name": "Shayzien Armour (Tier 5)",
+      "items": [
+        {"id": 13373, "name": "Shayzien helm (5)"},
+        {"id": 13374, "name": "Shayzien platebody (5)"},
+        {"id": 13375, "name": "Shayzien greaves (5)"},
+        {"id": 13376, "name": "Shayzien gloves (5)"},
+        {"id": 13377, "name": "Shayzien boots (5)"}
+      ]
+    },
+    {
+      "set_name": "Snakeskin Armour",
+      "items": [
+        {"id": 6322, "name": "Snakeskin body"},
+        {"id": 6324, "name": "Snakeskin chaps"},
+        {"id": 6326, "name": "Snakeskin bandana"},
+        {"id": 6328, "name": "Snakeskin boots"},
+        {"id": 6330, "name": "Snakeskin vambraces"}
+      ]
+    },
+    {
+      "set_name": "Spined Armour",
+      "items": [
+        {"id": 6131, "name": "Spined helm"},
+        {"id": 6133, "name": "Spined body"},
+        {"id": 6135, "name": "Spined legs"},
+        {"id": 6143, "name": "Spined gloves"},
+        {"id": 6157, "name": "Spined boots"}
+      ]
+    },
+    {
+      "set_name": "Stronghold of Security Boots",
+      "items": [
+        {"id": 9005, "name": "Fighting boots"},
+        {"id": 9006, "name": "Fancy boots"},
+        {"id": 9007, "name": "Fancy boots (blue)"},
+        {"id": 9008, "name": "Fighting boots (red)"}
+      ]
+    },
+    {
+      "set_name": "Sunfire Fanatic Armour",
+      "items": [
+        {"id": 25610, "name": "Sunfire fanatic helm"},
+        {"id": 25612, "name": "Sunfire fanatic cuirass"},
+        {"id": 25614, "name": "Sunfire fanatic chausses"}
+      ]
+    },
+    {
+      "set_name": "Swift Blade",
+      "items": [
+        {"id": 24219, "name": "Swift blade"}
+      ]
+    },
+    {
+      "set_name": "Initiate Armour",
+      "items": [
+        {"id": 5574, "name": "Initiate sallet"},
+        {"id": 5575, "name": "Initiate hauberk"},
+        {"id": 5576, "name": "Initiate cuisse"}
+      ]
+    },
+    {
+      "set_name": "Proselyte Armour",
+      "items": [
+        {"id": 9666, "name": "Proselyte sallet"},
+        {"id": 9672, "name": "Proselyte hauberk"},
+        {"id": 9674, "name": "Proselyte cuisse"}
+      ]
+    },
+    {
+      "set_name": "Trailblazer Reloaded Torch",
+      "items": [
+        {"id": 25172, "name": "Trailblazer reloaded torch"}
+      ]
+    },
+    {
+      "set_name": "Trailblazer Relic Hunter (T1)",
+      "items": [
+        {"id": 25001, "name": "Trailblazer relic hunter (t1) top"},
+        {"id": 25003, "name": "Trailblazer relic hunter (t1) legs"},
+        {"id": 25005, "name": "Trailblazer relic hunter (t1) boots"}
+      ]
+    },
+    {
+      "set_name": "Trailblazer Relic Hunter (T2)",
+      "items": [
+        {"id": 25007, "name": "Trailblazer relic hunter (t2) top"},
+        {"id": 25009, "name": "Trailblazer relic hunter (t2) legs"},
+        {"id": 25011, "name": "Trailblazer relic hunter (t2) boots"}
+      ]
+    },
+    {
+      "set_name": "Trailblazer Relic Hunter (T3)",
+      "items": [
+        {"id": 25013, "name": "Trailblazer relic hunter (t3) top"},
+        {"id": 25015, "name": "Trailblazer relic hunter (t3) legs"},
+        {"id": 25017, "name": "Trailblazer relic hunter (t3) boots"}
+      ]
+    },
+    {
+      "set_name": "Trailblazer Reloaded Relic Hunter (T1)",
+      "items": [
+        {"id": 25646, "name": "Trailblazer reloaded relic hunter (t1) top"},
+        {"id": 25648, "name": "Trailblazer reloaded relic hunter (t1) legs"},
+        {"id": 25650, "name": "Trailblazer reloaded relic hunter (t1) boots"}
+      ]
+    },
+    {
+      "set_name": "Trailblazer Reloaded Relic Hunter (T2)",
+      "items": [
+        {"id": 25652, "name": "Trailblazer reloaded relic hunter (t2) top"},
+        {"id": 25654, "name": "Trailblazer reloaded relic hunter (t2) legs"},
+        {"id": 25656, "name": "Trailblazer reloaded relic hunter (t2) boots"}
+      ]
+    },
+    {
+      "set_name": "Trailblazer Reloaded Relic Hunter (T3)",
+      "items": [
+        {"id": 25658, "name": "Trailblazer reloaded relic hunter (t3) top"},
+        {"id": 25660, "name": "Trailblazer reloaded relic hunter (t3) legs"},
+        {"id": 25662, "name": "Trailblazer reloaded relic hunter (t3) boots"}
+      ]
+    },
+    {
+      "set_name": "Tribal Masks",
+      "items": [
+        {"id": 6335, "name": "Tribal mask (combat)"},
+        {"id": 6337, "name": "Tribal mask (disease)"},
+        {"id": 6339, "name": "Tribal mask (poison)"}
+      ]
+    },
+    {
+      "set_name": "Twisted Relic Hunter (T1)",
+      "items": [
+        {"id": 23667, "name": "Twisted relic hunter (t1) top"},
+        {"id": 23669, "name": "Twisted relic hunter (t1) legs"},
+        {"id": 23671, "name": "Twisted relic hunter (t1) boots"}
+      ]
+    },
+    {
+      "set_name": "Twisted Relic Hunter (T2)",
+      "items": [
+        {"id": 23673, "name": "Twisted relic hunter (t2) top"},
+        {"id": 23675, "name": "Twisted relic hunter (t2) legs"},
+        {"id": 23677, "name": "Twisted relic hunter (t2) boots"}
+      ]
+    },
+    {
+      "set_name": "Twisted Relic Hunter (T3)",
+      "items": [
+        {"id": 23679, "name": "Twisted relic hunter (t3) top"},
+        {"id": 23681, "name": "Twisted relic hunter (t3) legs"},
+        {"id": 23683, "name": "Twisted relic hunter (t3) boots"}
+      ]
+    },
+    {
+      "set_name": "Void Knight Armour",
+      "items": [
+        {"id": 8839, "name": "Void knight top"},
+        {"id": 8840, "name": "Void knight robe"},
+        {"id": 8842, "name": "Void knight gloves"},
+        {"id": 11665, "name": "Void knight helm (melee)"},
+        {"id": 11664, "name": "Void knight helm (ranger)"},
+        {"id": 11663, "name": "Void knight helm (mage)"},
+        {"id": 13072, "name": "Elite void top"},
+        {"id": 13073, "name": "Elite void robe"}
+      ]
+    },
+    {
+      "set_name": "Vyre Noble Outfit",
+      "items": [
+        {"id": 24788, "name": "Vyre noble top"},
+        {"id": 24790, "name": "Vyre noble legs"},
+        {"id": 24792, "name": "Vyre noble shoes"},
+        {"id": 24794, "name": "Vyre noble corset"},
+        {"id": 24796, "name": "Vyre noble trousers"},
+        {"id": 24798, "name": "Vyre noble coat"}
+      ]
+    },
+    {
+      "set_name": "White Knight Equipment",
+      "items": [
+        {"id": 662, "name": "White full helm"},
+        {"id": 664, "name": "White platelegs"},
+        {"id": 666, "name": "White platebody"},
+        {"id": 668, "name": "White kiteshield"}
+      ]
+    },
+    {
+      "set_name": "Xerician Robes",
+      "items": [
+        {"id": 13385, "name": "Xerician hat"},
+        {"id": 13387, "name": "Xerician robe"},
+        {"id": 13389, "name": "Xerician top"}
+      ]
+    }
   ],
   "MAGIC_WARDROBE": [
-    10394, 10396, 10398, 4089, 4091, 4093, 4095, 4097, 3385, 3387, 3389, 3391,
-    3393, 6106, 6107, 6108, 6109, 11858, 11860, 11862, 6182, 6184, 6186
+    {
+      "set_name": "Mystic Robes (Blue)",
+      "items": [
+        {"id": 4089, "name": "Mystic hat"},
+        {"id": 4091, "name": "Mystic robe top"},
+        {"id": 4093, "name": "Mystic robe bottom"},
+        {"id": 4095, "name": "Mystic gloves"},
+        {"id": 4097, "name": "Mystic boots"}
+      ]
+    },
+    {
+      "set_name": "Mystic Robes (Light)",
+      "items": [
+        {"id": 4111, "name": "Mystic hat (light)"},
+        {"id": 4109, "name": "Mystic robe top (light)"},
+        {"id": 4113, "name": "Mystic robe bottom (light)"},
+        {"id": 4115, "name": "Mystic gloves (light)"},
+        {"id": 4117, "name": "Mystic boots (light)"}
+      ]
+    },
+    {
+      "set_name": "Mystic Robes (Dark)",
+      "items": [
+        {"id": 4099, "name": "Mystic hat (dark)"},
+        {"id": 4101, "name": "Mystic robe top (dark)"},
+        {"id": 4103, "name": "Mystic robe bottom (dark)"},
+        {"id": 4105, "name": "Mystic gloves (dark)"},
+        {"id": 4107, "name": "Mystic boots (dark)"}
+      ]
+    },
+    {
+      "set_name": "Mystic Robes (Dusk)",
+      "items": [
+        {"id": 24774, "name": "Mystic hat (dusk)"},
+        {"id": 24776, "name": "Mystic robe top (dusk)"},
+        {"id": 24778, "name": "Mystic robe bottom (dusk)"},
+        {"id": 24780, "name": "Mystic gloves (dusk)"},
+        {"id": 24782, "name": "Mystic boots (dusk)"}
+      ]
+    },
+    {
+      "set_name": "Mystic Robes (Shattered)",
+      "items": [
+        {"id": 26523, "name": "Shattered mystic hat"},
+        {"id": 26525, "name": "Shattered mystic robe top"},
+        {"id": 26527, "name": "Shattered mystic robe bottom"},
+        {"id": 26529, "name": "Shattered mystic gloves"},
+        {"id": 26531, "name": "Shattered mystic boots"}
+      ]
+    },
+    {
+      "set_name": "Splitbark Armour",
+      "items": [
+        {"id": 3385, "name": "Splitbark helm"},
+        {"id": 3387, "name": "Splitbark body"},
+        {"id": 3389, "name": "Splitbark legs"},
+        {"id": 3391, "name": "Splitbark gauntlets"},
+        {"id": 3393, "name": "Splitbark boots"}
+      ]
+    },
+    {
+      "set_name": "Ghostly Robes",
+      "items": [
+        {"id": 6106, "name": "Ghostly hood"},
+        {"id": 6107, "name": "Ghostly robe top"},
+        {"id": 6108, "name": "Ghostly robe bottom"},
+        {"id": 6109, "name": "Ghostly cloak"},
+        {"id": 6110, "name": "Ghostly gloves"},
+        {"id": 6111, "name": "Ghostly boots"}
+      ]
+    },
+    {
+      "set_name": "Lunar Equipment",
+      "items": [
+        {"id": 9089, "name": "Lunar helm"},
+        {"id": 9090, "name": "Lunar cape"},
+        {"id": 9091, "name": "Lunar torso"},
+        {"id": 9092, "name": "Lunar gloves"},
+        {"id": 9093, "name": "Lunar legs"},
+        {"id": 9094, "name": "Lunar boots"}
+      ]
+    },
+    {
+      "set_name": "Infinity Robes",
+      "items": [
+        {"id": 6918, "name": "Infinity hat"},
+        {"id": 6916, "name": "Infinity top"},
+        {"id": 6914, "name": "Infinity bottoms"},
+        {"id": 6924, "name": "Infinity gloves"},
+        {"id": 6920, "name": "Infinity boots"}
+      ]
+    },
+    {
+      "set_name": "3rd Age Mage",
+      "items": [
+        {"id": 10316, "name": "3rd age mage hat"},
+        {"id": 10318, "name": "3rd age robe top"},
+        {"id": 10320, "name": "3rd age robe"},
+        {"id": 10322, "name": "3rd age amulet"}
+      ]
+    },
+    {
+      "set_name": "Ancestral Robes",
+      "items": [
+        {"id": 21018, "name": "Ancestral hat"},
+        {"id": 21021, "name": "Ancestral robe top"},
+        {"id": 21024, "name": "Ancestral robe bottom"}
+      ]
+    },
+    {
+      "set_name": "Twisted Ancestral Robes",
+      "items": [
+        {"id": 26017, "name": "Twisted ancestral hat"},
+        {"id": 26020, "name": "Twisted ancestral robe top"},
+        {"id": 26023, "name": "Twisted ancestral robe bottom"}
+      ]
+    },
+    {
+      "set_name": "Ancient Ceremonial Robes",
+      "items": [
+        {"id": 12195, "name": "Ancient ceremonial mask"},
+        {"id": 12197, "name": "Ancient ceremonial top"},
+        {"id": 12199, "name": "Ancient ceremonial legs"},
+        {"id": 12201, "name": "Ancient ceremonial gloves"},
+        {"id": 12203, "name": "Ancient ceremonial boots"}
+      ]
+    },
+    {
+      "set_name": "Bloodbark Armour",
+      "items": [
+        {"id": 24780, "name": "Bloodbark helm"},
+        {"id": 24782, "name": "Bloodbark body"},
+        {"id": 24784, "name": "Bloodbark legs"}
+      ]
+    },
+    {
+      "set_name": "Bounty Hunter Hats",
+      "items": [
+        {"id": 12757, "name": "Bounty hunter hat (tier 1)"},
+        {"id": 12759, "name": "Bounty hunter hat (tier 2)"},
+        {"id": 12761, "name": "Bounty hunter hat (tier 3)"},
+        {"id": 12763, "name": "Bounty hunter hat (tier 4)"},
+        {"id": 12765, "name": "Bounty hunter hat (tier 5)"},
+        {"id": 12767, "name": "Bounty hunter hat (tier 6)"}
+      ]
+    },
+    {
+      "set_name": "Bruma Torch",
+      "items": [
+        {"id": 20720, "name": "Bruma torch"}
+      ]
+    },
+    {
+      "set_name": "Dagon’hai Robes",
+      "items": [
+        {"id": 2429, "name": "Dagon'hai hat"},
+        {"id": 2431, "name": "Dagon'hai robe top"},
+        {"id": 2433, "name": "Dagon'hai robe bottom"}
+      ]
+    },
+    {
+      "set_name": "Dark Flippers",
+      "items": [
+        {"id": 13359, "name": "Dark flippers"}
+      ]
+    },
+    {
+      "set_name": "Dark Squall Robes",
+      "items": [
+        {"id": 25865, "name": "Dark squall hood"},
+        {"id": 25867, "name": "Dark squall robe top"},
+        {"id": 25869, "name": "Dark squall robe bottom"}
+      ]
+    },
+    {
+      "set_name": "Elder Chaos Druid Robes",
+      "items": [
+        {"id": 20595, "name": "Elder chaos hood"},
+        {"id": 20596, "name": "Elder chaos top"},
+        {"id": 20597, "name": "Elder chaos robe"}
+      ]
+    },
+    {
+      "set_name": "Elder Chaos Druid Robes (Ornate)",
+      "items": [
+        {"id": 20728, "name": "Ornate elder chaos hood"},
+        {"id": 20730, "name": "Ornate elder chaos top"},
+        {"id": 20732, "name": "Ornate elder chaos robe"}
+      ]
+    },
+    {
+      "set_name": "Fish Sack",
+      "items": [
+        {"id": 24710, "name": "Fish sack"}
+      ]
+    },
+    {
+      "set_name": "Flags",
+      "items": [
+        {"id": 8965, "name": "Bronze fist flag"},
+        {"id": 8966, "name": "Cutthroat flag"},
+        {"id": 8967, "name": "Guilded smile flag"},
+        {"id": 8968, "name": "Lucky shot flag"},
+        {"id": 8969, "name": "Pestilent bane flag"},
+        {"id": 8970, "name": "Phasmatys flag"},
+        {"id": 8971, "name": "Stranglewood flag"}
+      ]
+    },
+    {
+      "set_name": "Forestry Kit",
+      "items": [
+        {"id": 25634, "name": "Forestry basket"}
+      ]
+    },
+    {
+      "set_name": "Golden Tench",
+      "items": [
+        {"id": 22834, "name": "Golden tench"}
+      ]
+    },
+    {
+      "set_name": "Graceful Outfit (Standard)",
+      "items": [
+        {"id": 11850, "name": "Graceful hood"},
+        {"id": 11852, "name": "Graceful top"},
+        {"id": 11854, "name": "Graceful legs"},
+        {"id": 11856, "name": "Graceful gloves"},
+        {"id": 11858, "name": "Graceful boots"},
+        {"id": 11860, "name": "Graceful cape"}
+      ]
+    },
+    {
+      "set_name": "Graceful Outfit (Arceuus)",
+      "items": [
+        {"id": 21061, "name": "Arceuus graceful hood"},
+        {"id": 21064, "name": "Arceuus graceful top"},
+        {"id": 21067, "name": "Arceuus graceful legs"},
+        {"id": 21070, "name": "Arceuus graceful gloves"},
+        {"id": 21073, "name": "Arceuus graceful boots"},
+        {"id": 21076, "name": "Arceuus graceful cape"}
+      ]
+    },
+    {
+      "set_name": "Graceful Outfit (Hallowed)",
+      "items": [
+        {"id": 24174, "name": "Hallowed graceful hood"},
+        {"id": 24176, "name": "Hallowed graceful top"},
+        {"id": 24178, "name": "Hallowed graceful legs"},
+        {"id": 24180, "name": "Hallowed graceful gloves"},
+        {"id": 24182, "name": "Hallowed graceful boots"},
+        {"id": 24184, "name": "Hallowed graceful cape"}
+      ]
+    },
+    {
+      "set_name": "Imcando Hammer",
+      "items": [
+        {"id": 25937, "name": "Imcando hammer"}
+      ]
+    },
+    {
+      "set_name": "Log Basket",
+      "items": [
+        {"id": 20792, "name": "Log basket"}
+      ]
+    },
+    {
+      "set_name": "Moonclan Robes",
+      "items": [
+        {"id": 9055, "name": "Moonclan helm"},
+        {"id": 9056, "name": "Moonclan armour"},
+        {"id": 9057, "name": "Moonclan skirt"},
+        {"id": 9058, "name": "Moonclan gloves"},
+        {"id": 9059, "name": "Moonclan boots"},
+        {"id": 9060, "name": "Moonclan cape"}
+      ]
+    },
+    {
+      "set_name": "Mudskipper Kit",
+      "items": [
+        {"id": 6665, "name": "Mudskipper hat"},
+        {"id": 6666, "name": "Flippers"}
+      ]
+    },
+    {
+      "set_name": "Naval Clothing (Black)",
+      "items": [
+        {"id": 8952, "name": "Black naval shirt"},
+        {"id": 8957, "name": "Black tricorn hat"},
+        {"id": 8959, "name": "Black navy slacks"}
+      ]
+    },
+    {
+      "set_name": "Naval Clothing (Blue)",
+      "items": [
+        {"id": 8953, "name": "Blue naval shirt"},
+        {"id": 8958, "name": "Blue tricorn hat"},
+        {"id": 8960, "name": "Blue navy slacks"}
+      ]
+    },
+    {
+      "set_name": "Naval Clothing (Brown)",
+      "items": [
+        {"id": 8954, "name": "Brown naval shirt"},
+        {"id": 8955, "name": "Brown tricorn hat"},
+        {"id": 8961, "name": "Brown navy slacks"}
+      ]
+    },
+    {
+      "set_name": "Naval Clothing (Green)",
+      "items": [
+        {"id": 8950, "name": "Green naval shirt"},
+        {"id": 8956, "name": "Green tricorn hat"},
+        {"id": 8962, "name": "Green navy slacks"}
+      ]
+    },
+    {
+      "set_name": "Pearl Fishing Rods",
+      "items": [
+        {"id": 25940, "name": "Oily pearl fishing rod"},
+        {"id": 25943, "name": "Pearl barbarian rod"},
+        {"id": 25946, "name": "Pearl fishing rod"},
+        {"id": 25949, "name": "Pearl fly fishing rod"}
+      ]
+    },
+    {
+      "set_name": "Pheasant Costume",
+      "items": [
+        {"id": 25853, "name": "Pheasant hat"},
+        {"id": 25855, "name": "Pheasant tail"},
+        {"id": 25857, "name": "Pheasant cape"}
+      ]
+    },
+    {
+      "set_name": "Pyromancer Outfit",
+      "items": [
+        {"id": 20708, "name": "Pyromancer hood"},
+        {"id": 20710, "name": "Pyromancer garb"},
+        {"id": 20712, "name": "Pyromancer robe"},
+        {"id": 20714, "name": "Pyromancer staff"}
+      ]
+    },
+    {
+      "set_name": "Raiments of the Eye",
+      "items": [
+        {"id": 25680, "name": "Hat of the eye"},
+        {"id": 25682, "name": "Robe top of the eye"},
+        {"id": 25684, "name": "Robe bottoms of the eye"}
+      ]
+    },
+    {
+      "set_name": "Raiments of the Eye (Blue)",
+      "items": [
+        {"id": 26875, "name": "Blue hat of the eye"},
+        {"id": 26877, "name": "Blue robe top of the eye"},
+        {"id": 26879, "name": "Blue robe bottoms of the eye"}
+      ]
+    },
+    {
+      "set_name": "Raiments of the Eye (Green)",
+      "items": [
+        {"id": 26881, "name": "Green hat of the eye"},
+        {"id": 26883, "name": "Green robe top of the eye"},
+        {"id": 26885, "name": "Green robe bottoms of the eye"}
+      ]
+    },
+    {
+      "set_name": "Raiments of the Eye (Red)",
+      "items": [
+        {"id": 26887, "name": "Red hat of the eye"},
+        {"id": 26889, "name": "Red robe top of the eye"},
+        {"id": 26891, "name": "Red robe bottoms of the eye"}
+      ]
+    },
+    {
+      "set_name": "Robes of Ruin",
+      "items": [
+        {"id": 26503, "name": "Hat of ruin"},
+        {"id": 26505, "name": "Robe top of ruin"},
+        {"id": 26507, "name": "Robe bottoms of ruin"}
+      ]
+    },
+    {
+      "set_name": "Skeletal Armour",
+      "items": [
+        {"id": 6137, "name": "Skeletal helm"},
+        {"id": 6139, "name": "Skeletal top"},
+        {"id": 6141, "name": "Skeletal bottoms"},
+        {"id": 6147, "name": "Skeletal gloves"},
+        {"id": 6153, "name": "Skeletal boots"}
+      ]
+    },
+    {
+      "set_name": "Smiths’ Uniform",
+      "items": [
+        {"id": 26280, "name": "Smiths' chest"},
+        {"id": 26282, "name": "Smiths' legs"},
+        {"id": 26284, "name": "Smiths' gloves"},
+        {"id": 26286, "name": "Smiths' boots"}
+      ]
+    },
+    {
+      "set_name": "Swampbark Armour",
+      "items": [
+        {"id": 24786, "name": "Swampbark helm"},
+        {"id": 24788, "name": "Swampbark body"},
+        {"id": 24790, "name": "Swampbark legs"}
+      ]
+    },
+    {
+      "set_name": "Tribal Outfits (Blue)",
+      "items": [
+        {"id": 6384, "name": "Blue tribal top"},
+        {"id": 6386, "name": "Blue tribal skirt"},
+        {"id": 6390, "name": "Blue villager hat"},
+        {"id": 6388, "name": "Blue villager robe"},
+        {"id": 6392, "name": "Blue villager armband"}
+      ]
+    },
+    {
+      "set_name": "Tribal Outfits (Brown)",
+      "items": [
+        {"id": 6354, "name": "Brown tribal top"},
+        {"id": 6356, "name": "Brown tribal skirt"},
+        {"id": 6360, "name": "Brown villager hat"},
+        {"id": 6358, "name": "Brown villager robe"},
+        {"id": 6362, "name": "Brown villager armband"}
+      ]
+    },
+    {
+      "set_name": "Tribal Outfits (Pink)",
+      "items": [
+        {"id": 6374, "name": "Pink tribal top"},
+        {"id": 6376, "name": "Pink tribal skirt"},
+        {"id": 6380, "name": "Pink villager hat"},
+        {"id": 6378, "name": "Pink villager robe"},
+        {"id": 6382, "name": "Pink villager armband"}
+      ]
+    },
+    {
+      "set_name": "Tribal Outfits (Yellow)",
+      "items": [
+        {"id": 6364, "name": "Yellow tribal top"},
+        {"id": 6366, "name": "Yellow tribal skirt"},
+        {"id": 6370, "name": "Yellow villager hat"},
+        {"id": 6368, "name": "Yellow villager robe"},
+        {"id": 6372, "name": "Yellow villager armband"}
+      ]
+    },
+    {
+      "set_name": "Twilight Emissary Robes",
+      "items": [
+        {"id": 25578, "name": "Twilight emissary hood"},
+        {"id": 25580, "name": "Twilight emissary robe top"},
+        {"id": 25582, "name": "Twilight emissary robe bottom"}
+      ]
+    },
+    {
+      "set_name": "Virtus Robes",
+      "items": [
+        {"id": 26096, "name": "Virtus mask"},
+        {"id": 26099, "name": "Virtus robe top"},
+        {"id": 26102, "name": "Virtus robe bottom"}
+      ]
+    },
+    {
+      "set_name": "Virtus Robes (Echo)",
+      "items": [
+        {"id": 26241, "name": "Echo virtus mask"},
+        {"id": 26244, "name": "Echo virtus robe top"},
+        {"id": 26247, "name": "Echo virtus robe bottom"}
+      ]
+    },
+    {
+      "set_name": "Warm Gloves",
+      "items": [
+        {"id": 23064, "name": "Warm gloves"}
+      ]
+    },
+    {
+      "set_name": "Zealot’s Robes",
+      "items": [
+        {"id": 24883, "name": "Zealot's helm"},
+        {"id": 24885, "name": "Zealot's robe top"},
+        {"id": 24887, "name": "Zealot's robe bottom"},
+        {"id": 24889, "name": "Zealot's boots"}
+      ]
+    }
   ],
   "TOY_BOX": [
-    1037, 1050, 1053, 1055, 1057, 4566, 4565, 981, 6856, 6857, 6858, 6859,
-    6860, 6862, 6864, 6866, 13258, 13259, 13260, 13261, 6853
-  ],
-  "TREASURE_CHEST": [
-    2669, 2671, 2673, 2675, 2677, 2679, 2681, 2683, 2685, 12424, 12425, 12426,
-    12427, 12428, 12429, 12295, 12297, 12299, 12301, 12303, 12305, 12307, 12430,
-    12432, 12434, 10392, 10390
+    {
+      "set_name": "Individual Items",
+      "items": [
+        {"id": 1037, "name": "Bunny ears"},
+        {"id": 4566, "name": "Rubber chicken"},
+        {"id": 4565, "name": "Scythe"},
+        {"id": 981, "name": "Red nose"},
+        {"id": 6864, "name": "Yo-yo"},
+        {"id": 6866, "name": "Easter egg"},
+        {"id": 13258, "name": "Pumpkin"},
+        {"id": 13646, "name": "Reindeer hat"},
+        {"id": 13655, "name": "Easter basket"},
+        {"id": 19730, "name": "Partyhat & specs"},
+        {"id": 6722, "name": "Zombie head"},
+        {"id": 7594, "name": "Grim reaper hood"},
+        {"id": 19724, "name": "Cat ears"},
+        {"id": 19726, "name": "Hell cat ears"},
+        {"id": 19893, "name": "Cabbage cape"},
+        {"id": 19894, "name": "Cruciferous codex"},
+        {"id": 25253, "name": "Giant present"},
+        {"id": 12371, "name": "Gnome child hat"},
+        {"id": 13173, "name": "Hornwood helm"},
+        {"id": 22302, "name": "Jonas mask"},
+        {"id": 24171, "name": "Love crossbow"},
+        {"id": 25255, "name": "Sack of presents"},
+        {"id": 11949, "name": "Snow globe"},
+        {"id": 19708, "name": "4th birthday hat"},
+        {"id": 19710, "name": "Birthday balloons"},
+        {"id": 25823, "name": "Easter egg helm"},
+        {"id": 23332, "name": "Hand fan"},
+        {"id": 24167, "name": "Rainbow scarf"},
+        {"id": 20113, "name": "Runefest shield"},
+        {"id": 22315, "name": "Prop sword"},
+        {"id": 12845, "name": "Candy cane"},
+        {"id": 18839, "name": "Birthday cake"},
+        {"id": 25825, "name": "Bunnyman mask"},
+        {"id": 25827, "name": "Giant easter egg"},
+        {"id": 25277, "name": "Giant boulder"},
+        {"id": 25821, "name": "Carrot sword"},
+        {"id": 25822, "name": "'24-carat' sword"},
+        {"id": 25824, "name": "Magic egg ball"},
+        {"id": 10996, "name": "Goblin decorations"},
+        {"id": 24397, "name": "Headless head"},
+        {"id": 24399, "name": "Magical pumpkin"},
+        {"id": 25204, "name": "Banana hat"},
+        {"id": 25206, "name": "Cursed banana"},
+        {"id": 25208, "name": "Festive elf hat"},
+        {"id": 25210, "name": "Festive elf slippers"},
+        {"id": 24852, "name": "Gnome child mask"},
+        {"id": 24854, "name": "Gnome child icon"},
+        {"id": 25820, "name": "Gregg's eastdoor"},
+        {"id": 25847, "name": "Haunted wine bottle"},
+        {"id": 25279, "name": "Snowman ring"},
+        {"id": 25826, "name": "Propeller hat"},
+        {"id": 20077, "name": "Saucepan"},
+        {"id": 25281, "name": "Secret santa present (red)"},
+        {"id": 25283, "name": "Secret santa present (blue)"},
+        {"id": 25285, "name": "Secret santa present (green)"},
+        {"id": 25287, "name": "Secret santa present (black)"},
+        {"id": 25289, "name": "Secret santa present (gold)"},
+        {"id": 25801, "name": "Ugly halloween jumper (orange)"},
+        {"id": 25803, "name": "Ugly halloween jumper (black)"},
+        {"id": 25291, "name": "Sack of coal"},
+        {"id": 25828, "name": "Crate ring"},
+        {"id": 25829, "name": "Easter hat"},
+        {"id": 25293, "name": "Festive games crown"},
+        {"id": 25295, "name": "Christmas jumper"},
+        {"id": 25800, "name": "Halloween wig"},
+        {"id": 25158, "name": "Nutcracker hat"},
+        {"id": 25160, "name": "Nutcracker top"},
+        {"id": 25162, "name": "Nutcracker trousers"},
+        {"id": 25164, "name": "Nutcracker boots"},
+        {"id": 25166, "name": "Nutcracker staff"},
+        {"id": 24169, "name": "Flower crown"},
+        {"id": 24856, "name": "Skis"},
+        {"id": 25297, "name": "Santa's list"},
+        {"id": 25299, "name": "Snow goggles & hat"},
+        {"id": 25851, "name": "Treat cauldron"}
+      ]
+    },
+    {
+      "set_name": "Marionette Set",
+      "items": [
+        {"id": 6856, "name": "Marionette (red)"},
+        {"id": 6857, "name": "Marionette (green)"},
+        {"id": 6858, "name": "Marionette (blue)"}
+      ]
+    },
+    {
+      "set_name": "Skeleton Outfit",
+      "items": [
+        {"id": 6182, "name": "Skeleton mask"},
+        {"id": 6184, "name": "Skeleton shirt"},
+        {"id": 6185, "name": "Skeleton leggings"},
+        {"id": 6186, "name": "Skeleton gloves"},
+        {"id": 6187, "name": "Skeleton boots"}
+      ]
+    },
+    {
+      "set_name": "Christmas Hats",
+      "items": [
+        {"id": 2633, "name": "Bobble hat"},
+        {"id": 2635, "name": "Jester hat"},
+        {"id": 2637, "name": "Tri-jester hat"},
+        {"id": 3327, "name": "Woolly hat"}
+      ]
+    },
+    {
+      "set_name": "Christmas Scarves",
+      "items": [
+        {"id": 3329, "name": "Bobble scarf"},
+        {"id": 3331, "name": "Jester scarf"},
+        {"id": 3333, "name": "Tri-jester scarf"},
+        {"id": 3335, "name": "Woolly scarf"}
+      ]
+    },
+    {
+      "set_name": "Cow Outfit",
+      "items": [
+        {"id": 25859, "name": "Cow mask"},
+        {"id": 25861, "name": "Cow top"},
+        {"id": 25863, "name": "Cow trousers"},
+        {"id": 25865, "name": "Cow gloves"},
+        {"id": 25867, "name": "Cow shoes"}
+      ]
+    },
+    {
+      "set_name": "Antisanta Outfit",
+      "items": [
+        {"id": 12887, "name": "Antisanta mask"},
+        {"id": 12888, "name": "Antisanta jacket"},
+        {"id": 12889, "name": "Antisanta pantaloons"},
+        {"id": 12890, "name": "Antisanta gloves"},
+        {"id": 12891, "name": "Antisanta boots"}
+      ]
+    },
+    {
+      "set_name": "20th Anniversary Outfit",
+      "items": [
+        {"id": 25200, "name": "20th anniversary hat"},
+        {"id": 25202, "name": "20th anniversary cape"}
+      ]
+    },
+    {
+      "set_name": "Birthday Plush",
+      "items": [
+        {"id": 25831, "name": "Jad plush"},
+        {"id": 25833, "name": "Vorki plush"},
+        {"id": 25835, "name": "Olm plush"}
+      ]
+    },
+    {
+      "set_name": "Birthday Slippers",
+      "items": [
+        {"id": 25837, "name": "Jad slippers"},
+        {"id": 25839, "name": "Vorki slippers"},
+        {"id": 25841, "name": "Olm slippers"}
+      ]
+    },
+    {
+      "set_name": "Bunny Outfit",
+      "items": [
+        {"id": 25843, "name": "Bunny top"},
+        {"id": 25845, "name": "Bunny feet"},
+        {"id": 25847, "name": "Bunny paws"}
+      ]
+    },
+    {
+      "set_name": "Clown Outfit",
+      "items": [
+        {"id": 14004, "name": "Clown mask"},
+        {"id": 14005, "name": "Clown bow tie"},
+        {"id": 14006, "name": "Clown gown"},
+        {"id": 14007, "name": "Clown tights"},
+        {"id": 14008, "name": "Clown shoes"}
+      ]
+    },
+    {
+      "set_name": "Evil Chicken Outfit",
+      "items": [
+        {"id": 20439, "name": "Evil chicken head"},
+        {"id": 20436, "name": "Evil chicken wings"},
+        {"id": 20433, "name": "Evil chicken legs"},
+        {"id": 20442, "name": "Evil chicken feet"}
+      ]
+    },
+    {
+      "set_name": "Gnome Child Outfit",
+      "items": [
+        {"id": 24852, "name": "Gnome child mask"},
+        {"id": 24854, "name": "Gnome child icon"}
+      ]
+    },
+    {
+      "set_name": "Partyhat Set",
+      "items": [
+        {"id": 1038, "name": "Red partyhat"},
+        {"id": 1040, "name": "Yellow partyhat"},
+        {"id": 1042, "name": "Blue partyhat"},
+        {"id": 1044, "name": "Green partyhat"},
+        {"id": 1046, "name": "Purple partyhat"},
+        {"id": 1048, "name": "White partyhat"}
+      ]
+    },
+    {
+      "set_name": "Halloween Masks",
+      "items": [
+        {"id": 1053, "name": "Green h'ween mask"},
+        {"id": 1055, "name": "Blue h'ween mask"},
+        {"id": 1057, "name": "Red h'ween mask"}
+      ]
+    },
+    {
+      "set_name": "Santa Outfit",
+      "items": [
+        {"id": 1050, "name": "Santa hat"},
+        {"id": 12887, "name": "Santa mask"},
+        {"id": 12888, "name": "Santa jacket"},
+        {"id": 12889, "name": "Santa pantaloons"},
+        {"id": 12890, "name": "Santa gloves"},
+        {"id": 12891, "name": "Santa boots"}
+      ]
+    },
+    {
+      "set_name": "Snow Imp Outfit",
+      "items": [
+        {"id": 10507, "name": "Snow imp costume head"},
+        {"id": 10508, "name": "Snow imp costume body"},
+        {"id": 10509, "name": "Snow imp costume legs"},
+        {"id": 10510, "name": "Snow imp costume gloves"},
+        {"id": 10511, "name": "Snow imp costume boots"}
+      ]
+    },
+    {
+      "set_name": "Wise Old Man Outfit",
+      "items": [
+        {"id": 25869, "name": "Wise old man's hat"},
+        {"id": 25871, "name": "Wise old man's robe top"},
+        {"id": 25873, "name": "Wise old man's robe bottom"}
+      ]
+    },
+    {
+      "set_name": "Jester Outfit",
+      "items": [
+        {"id": 2635, "name": "Jester hat"},
+        {"id": 2631, "name": "Jester top"},
+        {"id": 2632, "name": "Jester tights"}
+      ]
+    },
+    {
+      "set_name": "Wintumber Tree",
+      "items": [
+        {"id": 10508, "name": "Wintumber tree"}
+      ]
+    }
   ],
   "CAPE_RACK": [
-    9747, 9748, 9750, 9751, 9753, 9754, 9756, 9757, 9759, 9760, 9762, 9763,
-    9765, 9766, 9768, 9769, 9771, 9772, 9774, 9775, 9777, 9778, 9780, 9781,
-    9783, 9784, 9786, 9787, 9789, 9790, 9792, 9793, 9795, 9796, 9798, 9799,
-    9801, 9802, 9804, 9805, 9807, 9808, 9810, 9811, 9813, 6570, 21295, 13329,
-    13330
+    {
+      "set_name": "Capes of Accomplishment",
+      "items": [
+        {"id": 9749, "name": "Attack cape"},
+        {"id": 9752, "name": "Strength cape"},
+        {"id": 9755, "name": "Defence cape"},
+        {"id": 9758, "name": "Ranging cape"},
+        {"id": 9761, "name": "Prayer cape"},
+        {"id": 9764, "name": "Magic cape"},
+        {"id": 9767, "name": "Runecraft cape"},
+        {"id": 9770, "name": "Hitpoints cape"},
+        {"id": 9773, "name": "Agility cape"},
+        {"id": 9776, "name": "Herblore cape"},
+        {"id": 9779, "name": "Thieving cape"},
+        {"id": 9782, "name": "Crafting cape"},
+        {"id": 9785, "name": "Fletching cape"},
+        {"id": 9788, "name": "Slayer cape"},
+        {"id": 9791, "name": "Construction cape"},
+        {"id": 9794, "name": "Mining cape"},
+        {"id": 9797, "name": "Smithing cape"},
+        {"id": 9800, "name": "Fishing cape"},
+        {"id": 9803, "name": "Cooking cape"},
+        {"id": 9806, "name": "Firemaking cape"},
+        {"id": 9809, "name": "Woodcutting cape"},
+        {"id": 9812, "name": "Farming cape"},
+        {"id": 13068, "name": "Quest point cape"},
+        {"id": 19709, "name": "Hunter cape"},
+        {"id": 21295, "name": "Achievement diary cape"}
+      ]
+    },
+    {
+      "set_name": "Team Capes",
+      "items": [
+        {"id": 4315, "name": "Team-1 cape"},
+        {"id": 4317, "name": "Team-2 cape"},
+        {"id": 4319, "name": "Team-3 cape"},
+        {"id": 4321, "name": "Team-4 cape"},
+        {"id": 4323, "name": "Team-5 cape"},
+        {"id": 4325, "name": "Team-6 cape"},
+        {"id": 4327, "name": "Team-7 cape"},
+        {"id": 4329, "name": "Team-8 cape"},
+        {"id": 4331, "name": "Team-9 cape"},
+        {"id": 4333, "name": "Team-10 cape"},
+        {"id": 4335, "name": "Team-11 cape"},
+        {"id": 4337, "name": "Team-12 cape"},
+        {"id": 4339, "name": "Team-13 cape"},
+        {"id": 4341, "name": "Team-14 cape"},
+        {"id": 4343, "name": "Team-15 cape"},
+        {"id": 4345, "name": "Team-16 cape"},
+        {"id": 4347, "name": "Team-17 cape"},
+        {"id": 4349, "name": "Team-18 cape"},
+        {"id": 4351, "name": "Team-19 cape"},
+        {"id": 4353, "name": "Team-20 cape"},
+        {"id": 4355, "name": "Team-21 cape"},
+        {"id": 4357, "name": "Team-22 cape"},
+        {"id": 4359, "name": "Team-23 cape"},
+        {"id": 4361, "name": "Team-24 cape"},
+        {"id": 4363, "name": "Team-25 cape"},
+        {"id": 4365, "name": "Team-26 cape"},
+        {"id": 4367, "name": "Team-27 cape"},
+        {"id": 4369, "name": "Team-28 cape"},
+        {"id": 4371, "name": "Team-29 cape"},
+        {"id": 4373, "name": "Team-30 cape"},
+        {"id": 4375, "name": "Team-31 cape"},
+        {"id": 4377, "name": "Team-32 cape"},
+        {"id": 4379, "name": "Team-33 cape"},
+        {"id": 4381, "name": "Team-34 cape"},
+        {"id": 4383, "name": "Team-35 cape"},
+        {"id": 4385, "name": "Team-36 cape"},
+        {"id": 4387, "name": "Team-37 cape"},
+        {"id": 4389, "name": "Team-38 cape"},
+        {"id": 4391, "name": "Team-39 cape"},
+        {"id": 4393, "name": "Team-40 cape"},
+        {"id": 4395, "name": "Team-41 cape"},
+        {"id": 4397, "name": "Team-42 cape"},
+        {"id": 4399, "name": "Team-43 cape"},
+        {"id": 4401, "name": "Team-44 cape"},
+        {"id": 4403, "name": "Team-45 cape"},
+        {"id": 4405, "name": "Team-46 cape"},
+        {"id": 4407, "name": "Team-47 cape"},
+        {"id": 4409, "name": "Team-48 cape"},
+        {"id": 4411, "name": "Team-49 cape"},
+        {"id": 4413, "name": "Team-50 cape"}
+      ]
+    },
+    {
+      "set_name": "Wilderness Capes",
+      "items": [
+        {"id": 12746, "name": "Wilderness cape 1"},
+        {"id": 12748, "name": "Wilderness cape 2"},
+        {"id": 12749, "name": "Wilderness cape 3"},
+        {"id": 12750, "name": "Wilderness cape 4"},
+        {"id": 12751, "name": "Wilderness cape 5"}
+      ]
+    },
+    {
+      "set_name": "Clan Capes",
+      "items": [
+        {"id": 20214, "name": "Clan cloak (1)"},
+        {"id": 20217, "name": "Clan cloak (2)"},
+        {"id": 20220, "name": "Clan cloak (3)"},
+        {"id": 20223, "name": "Clan cloak (4)"},
+        {"id": 20226, "name": "Clan cloak (5)"},
+        {"id": 20229, "name": "Clan cloak (6)"},
+        {"id": 20232, "name": "Clan cloak (7)"},
+        {"id": 20235, "name": "Clan cloak (8)"}
+      ]
+    },
+    {
+      "set_name": "Miscellaneous Capes",
+      "items": [
+        {"id": 975, "name": "Cape of legends"},
+        {"id": 2677, "name": "Guthix cape"},
+        {"id": 2678, "name": "Saradomin cape"},
+        {"id": 2679, "name": "Zamorak cape"},
+        {"id": 3057, "name": "Fire cape"},
+        {"id": 6570, "name": "Infernal cape"},
+        {"id": 6959, "name": "Mythical cape"},
+        {"id": 12337, "name": "Ava's accumulator"},
+        {"id": 12339, "name": "Ava's attractor"},
+        {"id": 10499, "name": "Ava's assembler"},
+        {"id": 19722, "name": "Champion's cape"},
+        {"id": 19945, "name": "Imbued guthix cape"},
+        {"id": 19947, "name": "Imbued saradomin cape"},
+        {"id": 19949, "name": "Imbued zamorak cape"},
+        {"id": 21285, "name": "Obsidian cape (r)"},
+        {"id": 22109, "name": "Masori assembler"},
+        {"id": 24133, "name": "Imbued guthix max cape"},
+        {"id": 24134, "name": "Imbued saradomin max cape"},
+        {"id": 24135, "name": "Imbued zamorak max cape"},
+        {"id": 24136, "name": "Fire max cape"},
+        {"id": 24137, "name": "Infernal max cape"},
+        {"id": 24138, "name": "Assembler max cape"},
+        {"id": 24139, "name": "Masori assembler max cape"},
+        {"id": 24140, "name": "Mythical max cape"}
+      ]
+    }
+  ],
+  "TREASURE_CHEST": [
+    {
+      "set_name": "Beginner Clue Rewards",
+      "items": [
+        {"id": 20220, "name": "Black beret"},
+        {"id": 20223, "name": "White beret"},
+        {"id": 20226, "name": "Blue beret"},
+        {"id": 20229, "name": "Headless arrow"},
+        {"id": 23245, "name": "Ardougne knight helm"},
+        {"id": 23248, "name": "Ardougne knight platebody"},
+        {"id": 23251, "name": "Ardougne knight platelegs"},
+        {"id": 4067, "name": "Newspaper"},
+        {"id": 12661, "name": "Bull roarer"}
+      ]
+    },
+    {
+      "set_name": "Easy Clue Rewards",
+      "items": [
+        {"id": 12325, "name": "Blue partyhat (t)"},
+        {"id": 12327, "name": "Green partyhat (t)"},
+        {"id": 12329, "name": "Red partyhat (t)"},
+        {"id": 12331, "name": "Yellow partyhat (t)"},
+        {"id": 12333, "name": "Purple partyhat (t)"},
+        {"id": 12335, "name": "White partyhat (t)"},
+        {"id": 12357, "name": "Gold headband"},
+        {"id": 12359, "name": "Red headband"},
+        {"id": 12361, "name": "Black headband"},
+        {"id": 12363, "name": "Brown headband"},
+        {"id": 12365, "name": "White headband"},
+        {"id": 12367, "name": "Blue headband"},
+        {"id": 12369, "name": "Green headband"},
+        {"id": 12371, "name": "Pink headband"},
+        {"id": 12373, "name": "Gnome scarf"},
+        {"id": 12375, "name": "Jester cape"},
+        {"id": 12377, "name": "Tri-jester cape"},
+        {"id": 12379, "name": "Woolly cape"},
+        {"id": 12381, "name": "Bobble cape"},
+        {"id": 12439, "name": "Rune cane"},
+        {"id": 12441, "name": "Black cane"},
+        {"id": 12443, "name": "Adamant cane"},
+        {"id": 12447, "name": "Top hat"},
+        {"id": 12449, "name": "Pith helmet"},
+        {"id": 12511, "name": "Pirate hat"},
+        {"id": 12513, "name": "Pirate bandana"},
+        {"id": 12515, "name": "Pirate boots"},
+        {"id": 12517, "name": "Pirate leggings"},
+        {"id": 12519, "name": "Stripy pirate shirt"},
+        {"id": 12521, "name": "Pirate shirt"},
+        {"id": 12523, "name": "Pirate cape"},
+        {"id": 12525, "name": "Pirate hook"},
+        {"id": 12627, "name": "Large spade"},
+        {"id": 12629, "name": "Wooden spoon"},
+        {"id": 12631, "name": "Egg whisk"},
+        {"id": 12633, "name": "Spork"},
+        {"id": 12635, "name": "Spatula"},
+        {"id": 12637, "name": "Frying pan"},
+        {"id": 12639, "name": "Skewer"},
+        {"id": 12641, "name": "Rolling pin"},
+        {"id": 12643, "name": "Kitchen knife"},
+        {"id": 12645, "name": "Meat cleaver"},
+        {"id": 12647, "name": "Cleaver"},
+        {"id": 12649, "name": "Afro"},
+        {"id": 12651, "name": "Briefcase"},
+        {"id": 12653, "name": "Sack of grain"},
+        {"id": 12655, "name": "Sack of potatoes"},
+        {"id": 12657, "name": "Sack of cabbages"},
+        {"id": 12659, "name": "Sack of onions"}
+      ]
+    },
+    {
+      "set_name": "Medium Clue Rewards",
+      "items": [
+        {"id": 12373, "name": "Gnome scarf"},
+        {"id": 12375, "name": "Jester cape"},
+        {"id": 12377, "name": "Tri-jester cape"},
+        {"id": 12379, "name": "Woolly cape"},
+        {"id": 12381, "name": "Bobble cape"},
+        {"id": 12473, "name": "Gold boater"},
+        {"id": 12475, "name": "Red boater"},
+        {"id": 12477, "name": "Black boater"},
+        {"id": 12479, "name": "Brown boater"},
+        {"id": 12481, "name": "White boater"},
+        {"id": 12483, "name": "Blue boater"},
+        {"id": 12485, "name": "Green boater"},
+        {"id": 12487, "name": "Pink boater"},
+        {"id": 12489, "name": "Gold cavalier"},
+        {"id": 12491, "name": "Red cavalier"},
+        {"id": 12493, "name": "Black cavalier"},
+        {"id": 12495, "name": "White cavalier"},
+        {"id": 12497, "name": "Navy cavalier"},
+        {"id": 12499, "name": "Tan cavalier"},
+        {"id": 12501, "name": "Dark cavalier"},
+        {"id": 12503, "name": "Green cavalier"},
+        {"id": 12505, "name": "Highwayman mask"},
+        {"id": 12529, "name": "Chocatrice cape"},
+        {"id": 12531, "name": "Grain of plenty"},
+        {"id": 12533, "name": "Horn of plenty"},
+        {"id": 12535, "name": "Lucky rabbit's foot"},
+        {"id": 12537, "name": "Magic beans"},
+        {"id": 12539, "name": "Golden egg"}
+      ]
+    },
+    {
+      "set_name": "Hard Clue Rewards",
+      "items": [
+        {"id": 4502, "name": "Decorative sword"},
+        {"id": 4503, "name": "Decorative armour"},
+        {"id": 4508, "name": "Decorative shield"},
+        {"id": 4510, "name": "Decorative armour (red)"},
+        {"id": 4511, "name": "Decorative armour (white)"},
+        {"id": 4512, "name": "Decorative helm"},
+        {"id": 4513, "name": "Decorative boots"},
+        {"id": 4514, "name": "Decorative gloves"},
+        {"id": 4515, "name": "Decorative cape"},
+        {"id": 4516, "name": "Decorative kiteshield"},
+        {"id": 4517, "name": "Decorative platelegs"},
+        {"id": 4518, "name": "Decorative platebody"},
+        {"id": 12361, "name": "Gilded scimitar"},
+        {"id": 12363, "name": "Gilded boots"},
+        {"id": 12365, "name": "Royal crown"},
+        {"id": 12367, "name": "Royal amulet"},
+        {"id": 12369, "name": "Royal sceptre"},
+        {"id": 12391, "name": "Royal gown top"},
+        {"id": 12393, "name": "Royal gown bottom"},
+        {"id": 12395, "name": "Royal boots"},
+        {"id": 12397, "name": "Royal gloves"},
+        {"id": 12451, "name": "Sheep mask"},
+        {"id": 12453, "name": "Penguin mask"},
+        {"id": 12455, "name": "Bat mask"},
+        {"id": 12457, "name": "Cat mask"},
+        {"id": 12459, "name": "Wolf mask"},
+        {"id": 12499, "name": "Amulet of glory (t)"},
+        {"id": 12501, "name": "Cape of skulls"},
+        {"id": 12503, "name": "Strength amulet (t)"},
+        {"id": 12505, "name": "Amulet of magic (t)"},
+        {"id": 12507, "name": "Obsidian cape (t)"},
+        {"id": 12509, "name": "Fremennik kilt"},
+        {"id": 12541, "name": "Golden fleece"},
+        {"id": 12543, "name": "Golden scarab"},
+        {"id": 12545, "name": "Golden statuette"},
+        {"id": 12547, "name": "Ancient statuette"},
+        {"id": 12549, "name": "Pharaoh's sceptre (u)"},
+        {"id": 12551, "name": "Sceptre of the gods"},
+        {"id": 12553, "name": "Skull sceptre"},
+        {"id": 12555, "name": "Skull sceptre (i)"},
+        {"id": 12615, "name": "Gilded med helm"},
+        {"id": 12617, "name": "Gilded chainbody"},
+        {"id": 12619, "name": "Gilded sq shield"},
+        {"id": 12621, "name": "Gilded 2h sword"},
+        {"id": 12623, "name": "Gilded spear"},
+        {"id": 12625, "name": "Gilded hasta"}
+      ]
+    },
+    {
+      "set_name": "Elite Clue Rewards",
+      "items": [
+        {"id": 4509, "name": "Decorative armour (gold)"},
+        {"id": 12389, "name": "Pharaoh's sceptre"},
+        {"id": 12461, "name": "Fox mask"},
+        {"id": 12463, "name": "White unicorn mask"},
+        {"id": 12465, "name": "Black unicorn mask"},
+        {"id": 12467, "name": "Green dragon mask"},
+        {"id": 12469, "name": "Blue dragon mask"},
+        {"id": 12471, "name": "Red dragon mask"},
+        {"id": 12473, "name": "Black dragon mask"},
+        {"id": 12475, "name": "Frost dragon mask"},
+        {"id": 12477, "name": "Bronze dragon mask"},
+        {"id": 12479, "name": "Iron dragon mask"},
+        {"id": 12481, "name": "Steel dragon mask"},
+        {"id": 12483, "name": "Mithril dragon mask"},
+        {"id": 12485, "name": "Lava dragon mask"},
+        {"id": 12487, "name": "Hydra mask"},
+        {"id": 12489, "name": "Skeletal wyvern mask"},
+        {"id": 12491, "name": "Dark claw"},
+        {"id": 12493, "name": "Hellfire bow"},
+        {"id": 12495, "name": "Dragonfire ward"},
+        {"id": 12497, "name": "Dragonfire shield"}
+      ]
+    },
+    {
+      "set_name": "Master Clue Rewards",
+      "items": [
+        {"id": 7390, "name": "Blue phat"},
+        {"id": 7392, "name": "Green phat"},
+        {"id": 7394, "name": "Red phat"},
+        {"id": 7396, "name": "Yellow phat"},
+        {"id": 7398, "name": "Purple phat"},
+        {"id": 7399, "name": "White phat"}
+      ]
+    }
   ],
   "FANCY_DRESS_BOX": [
-    6180, 6181, 6182, 6183, 6184, 6185, 6186, 4191, 4193, 4195, 4197, 4199,
-    4201, 4284, 4286, 4288, 4290, 4292, 7321, 7323, 7325, 7327, 6868, 6869,
-    6870, 6871, 6872, 6547, 6548, 6549
-  ],
-  "BOOKCASE": [
-    8013, 8014, 8015, 8016, 11190, 11191, 11192, 20617, 20619, 20621
+    {
+      "set_name": "Mime Outfit",
+      "items": [
+        {"id": 3057, "name": "Mime mask"},
+        {"id": 3058, "name": "Mime top"},
+        {"id": 3059, "name": "Mime legs"},
+        {"id": 3060, "name": "Mime gloves"},
+        {"id": 3061, "name": "Mime boots"}
+      ]
+    },
+    {
+      "set_name": "Royalty Outfit",
+      "items": [
+        {"id": 6180, "name": "Royal crown"},
+        {"id": 6181, "name": "Royal gown"},
+        {"id": 6183, "name": "Royal sceptre"}
+      ]
+    }
   ]
 }

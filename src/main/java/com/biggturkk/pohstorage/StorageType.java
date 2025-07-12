@@ -7,6 +7,5 @@ public enum StorageType
     MAGIC_WARDROBE,
     CAPE_RACK,
     TREASURE_CHEST,
-    FANCY_DRESS_BOX,
-    BOOKCASE
+    FANCY_DRESS_BOX
 }

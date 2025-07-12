@@ -1,0 +1,1463 @@
+{
+  "ARMOUR_CASE": [
+    // Studded Leather (g)
+    7362,  // Studded body (g)
+    7364,  // Studded chaps (g)
+    // Studded Leather (t)
+    7366,  // Studded body (t)
+    7368,  // Studded chaps (t)
+    // Black Dragonhide (g)
+    12381, // Black d'hide body (g)
+    12383, // Black d'hide chaps (g)
+    // Black Dragonhide (t)
+    12385, // Black d'hide body (t)
+    12387, // Black d'hide chaps (t)
+    // 3rd Age Melee
+    10330, // 3rd age platelegs
+    10332, // 3rd age platebody
+    10334, // 3rd age full helmet
+    10336, // 3rd age kiteshield
+    // 3rd Age Druidic (partial, top in ARMOUR_CASE)
+    10338, // 3rd age druidic robe top
+    // Guthix Dragonhide
+    10376, // Guthix d'hide body
+    10378, // Guthix d'hide chaps
+    19933, // Guthix d'hide boots
+    // Saradomin Dragonhide
+    10384, // Saradomin d'hide body
+    10386, // Saradomin d'hide chaps
+    19936, // Saradomin d'hide boots
+    // Zamorak Dragonhide
+    10368, // Zamorak d'hide body
+    10370, // Zamorak d'hide chaps
+    19927, // Zamorak d'hide boots
+    // Gilded Armour
+    3481,  // Gilded platebody
+    3483,  // Gilded platelegs
+    3485,  // Gilded kiteshield
+    3486,  // Gilded full helm
+    // Granite Armour
+    10589, // Granite body
+    10564, // Granite legs
+    10584, // Granite shield
+    // Ancient Dragonhide
+    19594, // Ancient d'hide body
+    19596, // Ancient d'hide chaps
+    19921, // Ancient d'hide boots
+    // Bandos Dragonhide
+    12512, // Bandos d'hide body
+    12514, // Bandos d'hide chaps
+    19924, // Bandos d'hide boots
+    // Armadyl Dragonhide
+    12504, // Armadyl d'hide body
+    12506, // Armadyl d'hide chaps
+    19930, // Armadyl d'hide boots
+    // Adventurer’s Outfit (Tier 1-3)
+    23209, // Adventurer's hood (t1)
+    23212, // Adventurer's tunic (t1)
+    23215, // Adventurer's trousers (t1)
+    23218, // Adventurer's boots (t1)
+    23221, // Adventurer's hood (t2)
+    23224, // Adventurer's tunic (t2)
+    23227, // Adventurer's trousers (t2)
+    23230, // Adventurer's boots (t2)
+    23233, // Adventurer's hood (t3)
+    23236, // Adventurer's tunic (t3)
+    23239, // Adventurer's trousers (t3)
+    23242, // Adventurer's boots (t3)
+    // Angler’s Outfit
+    13258, // Angler hat
+    13259, // Angler top
+    13260, // Angler waders
+    13261, // Angler boots
+    // Spirit Angler’s Outfit
+    25013, // Spirit angler headband
+    25016, // Spirit angler top
+    25019, // Spirit angler waders
+    25022, // Spirit angler boots
+    // Ardougne Knight Armour
+    23245, // Ardougne knight helm
+    23248, // Ardougne knight platebody
+    23251, // Ardougne knight platelegs
+    // Bomber Jacket Costume
+    23354, // Bomber cap
+    23357, // Bomber jacket
+    // Builder’s Costume
+    10862, // Builder's shirt
+    10863, // Builder's trousers
+    10864, // Builder's apron
+    10865, // Builder's boots
+    // Camouflage Gear (Desert, Jungle, Polar, Woodland)
+    10061, // Desert camo top
+    10063, // Desert camo legs
+    10057, // Jungle camo top
+    10059, // Jungle camo legs
+    10065, // Polar camo top
+    10067, // Polar camo legs
+    10053, // Wood camo top
+    10055, // Wood camo legs
+    // Canes (Raging Echoes, Shattered, Trailblazer, Twisted)
+    26239, // Raging echoes cane
+    25010, // Shattered cane
+    25007, // Trailblazer cane
+    23673, // Twisted cane
+    // Castle Wars Armour (1-3)
+    4504,  // Basic decorative helm
+    4505,  // Basic decorative platebody
+    4506,  // Basic decorative platelegs
+    4507,  // Basic decorative shield
+    4511,  // Detailed decorative helm
+    4512,  // Detailed decorative platebody
+    4513,  // Detailed decorative platelegs
+    4514,  // Detailed decorative shield
+    4515,  // Intricate decorative helm
+    4516,  // Intricate decorative platebody
+    4517,  // Intricate decorative platelegs
+    4518,  // Intricate decorative shield
+    // Clue Hunter Outfit
+    19836, // Clue hunter gloves
+    19837, // Clue hunter boots
+    19838, // Clue hunter trousers
+    19839, // Clue hunter cloak
+    19840, // Clue hunter garb
+    // Corrupted Armour
+    25592, // Corrupted helm
+    25594, // Corrupted platebody
+    25596, // Corrupted platelegs
+    // Deadman Armour
+    25612, // Deadman hood
+    25614, // Deadman tunic
+    25616, // Deadman trousers
+    // Dragonstone Armour
+    23667, // Dragonstone full helm
+    23668, // Dragonstone platebody
+    23669, // Dragonstone platelegs
+    23670, // Dragonstone boots
+    23671, // Dragonstone gauntlets
+    // Elite Black Armour
+    874,   // Black elite platebody
+    876,   // Black elite platelegs
+    878,   // Black elite full helm
+    // Farmer’s Outfit
+    13642, // Farmer's jacket
+    13643, // Farmer's trousers
+    13644, // Farmer's hat
+    13645, // Farmer's boots
+    // Fedora
+    13175, // Fedora
+    // H.A.M. Robes
+    4302,  // H.A.M. shirt
+    4304,  // H.A.M. robe
+    4308,  // H.A.M. hood
+    4310,  // H.A.M. cloak
+    // Halos
+    12637, // Saradomin halo
+    12638, // Zamorak halo
+    12639, // Guthix halo
+    20164, // Ancient halo
+    24198, // Armadyl halo
+    24200, // Bandos halo
+    24202, // Seren halo
+    24204, // Brassica halo
+    // Helm of Raedwald
+    19835, // Helm of raedwald
+    // Hunter Gear (Graahk, Kyatt, Larupia)
+    10051, // Graahk headdress
+    10053, // Graahk top
+    10055, // Graahk legs
+    10039, // Kyatt hat
+    10041, // Kyatt top
+    10043, // Kyatt legs
+    10045, // Larupia hat
+    10047, // Larupia top
+    10049, // Larupia legs
+    // Inquisitor’s Armour
+    24419, // Inquisitor's great helm
+    24420, // Inquisitor's hauberk
+    24421, // Inquisitor's plateskirt
+    // Justiciar Armour
+    22327, // Justiciar faceguard
+    22328, // Justiciar chestguard
+    22329, // Justiciar legguards
+    // Lumberjack Costume
+    10941, // Lumberjack top
+    10942, // Lumberjack legs
+    10943, // Lumberjack hat
+    10944, // Lumberjack boots
+    // Lumberjack Costume (Forestry)
+    25636, // Forestry top
+    25638, // Forestry legs
+    25640, // Forestry hat
+    25642, // Forestry boots
+    // Masori Armour
+    27355, // Masori mask
+    27357, // Masori body
+    27359, // Masori chaps
+    // Masori Armour (Fortified)
+    27352, // Masori mask (f)
+    27354, // Masori body (f)
+    27356, // Masori chaps (f)
+    // Mining Gloves
+    21392, // Mining gloves
+    21394, // Superior mining gloves
+    21396, // Expert mining gloves
+    // Mixed Hide Armour
+    23426, // Mixed hide coif
+    23428, // Mixed hide top
+    23430, // Mixed hide legs
+    23432, // Mixed hide cape
+    // Mourner Gear
+    6065,  // Mourner mask
+    6066,  // Mourner top
+    6067,  // Mourner trousers
+    6068,  // Mourner gloves
+    6069,  // Mourner boots
+    6070,  // Mourner cloak
+    // Oathplate Armour
+    25598, // Oathplate helm
+    25600, // Oathplate body
+    25602, // Oathplate legs
+    // Obsidian Armour
+    21298, // Obsidian helmet
+    21301, // Obsidian platebody
+    21304, // Obsidian platelegs
+    // Ornate Armour
+    23360, // Ornate gloves
+    23363, // Ornate boots
+    23366, // Ornate cape
+    // Penance Equipment
+    10547, // Healer hat
+    10548, // Fighter hat
+    10549, // Runner boots
+    10550, // Ranger hat
+    10551, // Fighter torso
+    10552, // Runner hat
+    10553, // Penance skirt
+    10555, // Penance gloves
+    // Prospector Kit
+    12013, // Prospector jacket
+    12014, // Prospector legs
+    12015, // Prospector helmet
+    12016, // Prospector boots
+    // Prospector Kit (Golden)
+    20787, // Golden prospector jacket
+    20788, // Golden prospector legs
+    20789, // Golden prospector helmet
+    20790, // Golden prospector boots
+    // Radiant Oathplate Armour
+    25604, // Radiant oathplate helm
+    25606, // Radiant oathplate body
+    25608, // Radiant oathplate legs
+    // Raging Echoes Relic Hunter (T1-T3)
+    26323, // Relic hunter (t1) top
+    26325, // Relic hunter (t1) legs
+    26327, // Relic hunter (t1) boots
+    26329, // Relic hunter (t2) top
+    26331, // Relic hunter (t2) legs
+    26333, // Relic hunter (t2) boots
+    26335, // Relic hunter (t3) top
+    26337, // Relic hunter (t3) legs
+    26339, // Relic hunter (t3) boots
+    // Rock-shell Armour
+    6128,  // Rock-shell helm
+    6129,  // Rock-shell plate
+    6130,  // Rock-shell legs
+    6146,  // Rock-shell gloves
+    6140,  // Rock-shell boots
+    // Rogue Equipment
+    5553,  // Rogue mask
+    5554,  // Rogue top
+    5555,  // Rogue trousers
+    5556,  // Rogue gloves
+    5557,  // Rogue boots
+    // Shattered Relic Hunter (T1-T3)
+    26323, // Shattered relic hunter (t1) top
+    26325, // Shattered relic hunter (t1) legs
+    26327, // Shattered relic hunter (t1) boots
+    26329, // Shattered relic hunter (t2) top
+    26331, // Shattered relic hunter (t2) legs
+    26333, // Shattered relic hunter (t2) boots
+    26335, // Shattered relic hunter (t3) top
+    26337, // Shattered relic hunter (t3) legs
+    26339, // Shattered relic hunter (t3) boots
+    // Shayzien Armour (Tier 1-5)
+    13353, // Shayzien helm (1)
+    13354, // Shayzien platebody (1)
+    13355, // Shayzien greaves (1)
+    13356, // Shayzien gloves (1)
+    13357, // Shayzien boots (1)
+    13358, // Shayzien helm (2)
+    13359, // Shayzien platebody (2)
+    13360, // Shayzien greaves (2)
+    13361, // Shayzien gloves (2)
+    13362, // Shayzien boots (2)
+    13363, // Shayzien helm (3)
+    13364, // Shayzien platebody (3)
+    13365, // Shayzien greaves (3)
+    13366, // Shayzien gloves (3)
+    13367, // Shayzien boots (3)
+    13368, // Shayzien helm (4)
+    13369, // Shayzien platebody (4)
+    13370, // Shayzien greaves (4)
+    13371, // Shayzien gloves (4)
+    13372, // Shayzien boots (4)
+    13373, // Shayzien helm (5)
+    13374, // Shayzien platebody (5)
+    13375, // Shayzien greaves (5)
+    13376, // Shayzien gloves (5)
+    13377, // Shayzien boots (5)
+    // Snakeskin Armour
+    6322,  // Snakeskin body
+    6324,  // Snakeskin chaps
+    6326,  // Snakeskin bandana
+    6328,  // Snakeskin boots
+    6330,  // Snakeskin vambraces
+    // Spined Armour
+    6131,  // Spined helm
+    6133,  // Spined body
+    6135,  // Spined legs
+    6143,  // Spined gloves
+    6157,  // Spined boots
+    // Stronghold of Security Boots
+    9005,  // Fighting boots
+    9006,  // Fancy boots
+    9007,  // Fancy boots (blue)
+    9008,  // Fighting boots (red)
+    // Sunfire Fanatic Armour
+    25610, // Sunfire fanatic helm
+    25612, // Sunfire fanatic cuirass
+    25614, // Sunfire fanatic chausses
+    // Swift Blade
+    24219, // Swift blade
+    // Initiate Armour
+    5574,  // Initiate sallet
+    5575,  // Initiate hauberk
+    5576,  // Initiate cuisse
+    // Proselyte Armour
+    9666,  // Proselyte sallet
+    9672,  // Proselyte hauberk
+    9674,  // Proselyte cuisse
+    // Trailblazer Reloaded Torch
+    25172, // Trailblazer reloaded torch
+    // Trailblazer Relic Hunter (T1-T3)
+    25001, // Trailblazer relic hunter (t1) top
+    25003, // Trailblazer relic hunter (t1) legs
+    25005, // Trailblazer relic hunter (t1) boots
+    25007, // Trailblazer relic hunter (t2) top
+    25009, // Trailblazer relic hunter (t2) legs
+    25011, // Trailblazer relic hunter (t2) boots
+    25013, // Trailblazer relic hunter (t3) top
+    25015, // Trailblazer relic hunter (t3) legs
+    25017, // Trailblazer relic hunter (t3) boots
+    // Trailblazer Reloaded Relic Hunter (T1-T3)
+    25646, // Trailblazer reloaded relic hunter (t1) top
+    25648, // Trailblazer reloaded relic hunter (t1) legs
+    25650, // Trailblazer reloaded relic hunter (t1) boots
+    25652, // Trailblazer reloaded relic hunter (t2) top
+    25654, // Trailblazer reloaded relic hunter (t2) legs
+    25656, // Trailblazer reloaded relic hunter (t2) boots
+    25658, // Trailblazer reloaded relic hunter (t3) top
+    25660, // Trailblazer reloaded relic hunter (t3) legs
+    25662, // Trailblazer reloaded relic hunter (t3) boots
+    // Tribal Masks
+    6335,  // Tribal mask (combat)
+    6337,  // Tribal mask (disease)
+    6339,  // Tribal mask (poison)
+    // Twisted Relic Hunter (T1-T3)
+    23667, // Twisted relic hunter (t1) top
+    23669, // Twisted relic hunter (t1) legs
+    23671, // Twisted relic hunter (t1) boots
+    23673, // Twisted relic hunter (t2) top
+    23675, // Twisted relic hunter (t2) legs
+    23677, // Twisted relic hunter (t2) boots
+    23679, // Twisted relic hunter (t3) top
+    23681, // Twisted relic hunter (t3) legs
+    23683, // Twisted relic hunter (t3) boots
+    // Void Knight Armour
+    8839,  // Void knight top
+    8840,  // Void knight robe
+    8842,  // Void knight gloves
+    11665, // Void knight helm (melee)
+    11664, // Void knight helm (ranger)
+    11663, // Void knight helm (mage)
+    13072, // Elite void top
+    13073, // Elite void robe
+    // Vyre Noble Outfit
+    24788, // Vyre noble top
+    24790, // Vyre noble legs
+    24792, // Vyre noble shoes
+    24794, // Vyre noble corset
+    24796, // Vyre noble trousers
+    24798, // Vyre noble coat
+    // White Knight Equipment
+    662,   // White full helm
+    664,   // White platelegs
+    666,   // White platebody
+    668,   // White kiteshield
+    // Xerician Robes
+    13385, // Xerician hat
+    13387, // Xerician robe
+    13389  // Xerician top
+  ],
+  "MAGIC_WARDROBE": [
+    // Mystic Robes (Blue)
+    4089,  // Mystic hat
+    4091,  // Mystic robe top
+    4093,  // Mystic robe bottom
+    4095,  // Mystic gloves
+    4097,  // Mystic boots
+    // Mystic Robes (Light)
+    4111,  // Mystic hat (light)
+    4109,  // Mystic robe top (light)
+    4113,  // Mystic robe bottom (light)
+    4115,  // Mystic gloves (light)
+    4117,  // Mystic boots (light)
+    // Mystic Robes (Dark)
+    4099,  // Mystic hat (dark)
+    4101,  // Mystic robe top (dark)
+    4103,  // Mystic robe bottom (dark)
+    4105,  // Mystic gloves (dark)
+    4107,  // Mystic boots (dark)
+    // Mystic Robes (Dusk)
+    24774, // Mystic hat (dusk)
+    24776, // Mystic robe top (dusk)
+    24778, // Mystic robe bottom (dusk)
+    24780, // Mystic gloves (dusk)
+    24782, // Mystic boots (dusk)
+    // Mystic Robes (Shattered)
+    26523, // Shattered mystic hat
+    26525, // Shattered mystic robe top
+    26527, // Shattered mystic robe bottom
+    26529, // Shattered mystic gloves
+    26531, // Shattered mystic boots
+    // Splitbark Armour
+    3385,  // Splitbark helm
+    3387,  // Splitbark body
+    3389,  // Splitbark legs
+    3391,  // Splitbark gauntlets
+    3393,  // Splitbark boots
+    // Ghostly Robes
+    6106,  // Ghostly hood
+    6107,  // Ghostly robe top
+    6108,  // Ghostly robe bottom
+    6109,  // Ghostly cloak
+    6110,  // Ghostly gloves
+    6111,  // Ghostly boots
+    // Lunar Equipment
+    9089,  // Lunar helm
+    9090,  // Lunar cape
+    9091,  // Lunar torso
+    9092,  // Lunar gloves
+    9093,  // Lunar legs
+    9094,  // Lunar boots
+    // Infinity Robes
+    6918,  // Infinity hat
+    6916,  // Infinity top
+    6914,  // Infinity bottoms
+    6924,  // Infinity gloves
+    6920,  // Infinity boots
+    // 3rd Age Druidic
+    20050, // 3rd age druidic cloak
+    20053, // 3rd age druidic robe top
+    20056, // 3rd age druidic robe bottoms
+    20059, // 3rd age druidic staff
+    // Ancestral Robes
+    21018, // Ancestral hat
+    21021, // Ancestral robe top
+    21024, // Ancestral robe bottom
+    // Twisted Ancestral Robes
+    26017, // Twisted ancestral hat
+    26020, // Twisted ancestral robe top
+    26023, // Twisted ancestral robe bottom
+    // Ancient Ceremonial Robes
+    12195, // Ancient ceremonial mask
+    12197, // Ancient ceremonial top
+    12199, // Ancient ceremonial legs
+    12201, // Ancient ceremonial gloves
+    12203, // Ancient ceremonial boots
+    // Bloodbark Armour
+    24780, // Bloodbark helm
+    24782, // Bloodbark body
+    24784, // Bloodbark legs
+    // Bounty Hunter Hats (Tier 1-6)
+    12757, // Bounty hunter hat (tier 1)
+    12759, // Bounty hunter hat (tier 2)
+    12761, // Bounty hunter hat (tier 3)
+    12763, // Bounty hunter hat (tier 4)
+    12765, // Bounty hunter hat (tier 5)
+    12767, // Bounty hunter hat (tier 6)
+    // Bruma Torch
+    20720, // Bruma torch
+    // Carpenter’s Outfit
+    10862, // Carpenter's shirt
+    10863, // Carpenter's trousers
+    10864, // Carpenter's apron
+    10865, // Carpenter's boots
+    // Dagon’hai Robes
+    2429,  // Dagon'hai hat
+    2431,  // Dagon'hai robe top
+    2433,  // Dagon'hai robe bottom
+    // Dark Flippers
+    13359, // Dark flippers
+    // Dark Squall Robes
+    25865, // Dark squall hood
+    25867, // Dark squall robe top
+    25869, // Dark squall robe bottom
+    // Elder Chaos Druid Robes
+    20595, // Elder chaos hood
+    20596, // Elder chaos top
+    20597, // Elder chaos robe
+    // Elder Chaos Druid Robes (Ornate)
+    20728, // Ornate elder chaos hood
+    20730, // Ornate elder chaos top
+    20732, // Ornate elder chaos robe
+    // Evil Chicken Outfit
+    20439, // Evil chicken head
+    20442, // Evil chicken wings
+    20445, // Evil chicken legs
+    20448, // Evil chicken feet
+    // Fish Sack
+    24710, // Fish sack
+    // Flags (Bronze Fist, Cutthroat, etc.)
+    8965,  // Bronze fist flag
+    8966,  // Cutthroat flag
+    8967,  // Guilded smile flag
+    8968,  // Lucky shot flag
+    8969,  // Pestilent bane flag
+    8970,  // Phasmatys flag
+    8971,  // Stranglewood flag
+    // Forestry Kit
+    25634, // Forestry basket
+    // Golden Tench
+    22834, // Golden tench
+    // Graceful Outfit (Standard)
+    11850, // Graceful hood
+    11852, // Graceful top
+    11854, // Graceful legs
+    11856, // Graceful gloves
+    11858, // Graceful boots
+    11860, // Graceful cape
+    // Graceful Outfit (Arceuus)
+    21061, // Arceuus graceful hood
+    21064, // Arceuus graceful top
+    21067, // Arceuus graceful legs
+    21070, // Arceuus graceful gloves
+    21073, // Arceuus graceful boots
+    21076, // Arceuus graceful cape
+    // Graceful Outfit (Hallowed)
+    24174, // Hallowed graceful hood
+    24176, // Hallowed graceful top
+    24178, // Hallowed graceful legs
+    24180, // Hallowed graceful gloves
+    24182, // Hallowed graceful boots
+    24184, // Hallowed graceful cape
+    // Imcando Hammer
+    25937, // Imcando hammer
+    // Log Basket
+    20792, // Log basket
+    // Moonclan Robes
+    9055,  // Moonclan helm
+    9056,  // Moonclan armour
+    9057,  // Moonclan skirt
+    9058,  // Moonclan gloves
+    9059,  // Moonclan boots
+    9060,  // Moonclan cape
+    // Mudskipper Kit
+    6665,  // Mudskipper hat
+    6666,  // Flippers
+    // Naval Clothing (Black)
+    8952,  // Black naval shirt
+    8957,  // Black tricorn hat
+    8959,  // Black navy slacks
+    // Naval Clothing (Blue)
+    8953,  // Blue naval shirt
+    8958,  // Blue tricorn hat
+    8960,  // Blue navy slacks
+    // Naval Clothing (Brown)
+    8954,  // Brown naval shirt
+    8955,  // Brown tricorn hat
+    8961,  // Brown navy slacks
+    // Naval Clothing (Green)
+    8950,  // Green naval shirt
+    8956,  // Green tricorn hat
+    8962,  // Green navy slacks
+    // Pearl Fishing Rods
+    25940, // Oily pearl fishing rod
+    25943, // Pearl barbarian rod
+    25946, // Pearl fishing rod
+    25949, // Pearl fly fishing rod
+    // Pheasant Costume
+    25853, // Pheasant hat
+    25855, // Pheasant tail
+    25857, // Pheasant cape
+    // Pyromancer Outfit
+    20708, // Pyromancer hood
+    20710, // Pyromancer garb
+    20712, // Pyromancer robe
+    20714, // Pyromancer staff
+    // Raiments of the Eye
+    25680, // Hat of the eye
+    25682, // Robe top of the eye
+    25684, // Robe bottoms of the eye
+    // Raiments of the Eye (Blue)
+    26875, // Blue hat of the eye
+    26877, // Blue robe top of the eye
+    26879, // Blue robe bottoms of the eye
+    // Raiments of the Eye (Green)
+    26881, // Green hat of the eye
+    26883, // Green robe top of the eye
+    26885, // Green robe bottoms of the eye
+    // Raiments of the Eye (Red)
+    26887, // Red hat of the eye
+    26889, // Red robe top of the eye
+    26891, // Red robe bottoms of the eye
+    // Robes of Ruin
+    26503, // Hat of ruin
+    26505, // Robe top of ruin
+    26507, // Robe bottoms of ruin
+    // Skeletal Armour
+    6137,  // Skeletal helm
+    6139,  // Skeletal top
+    6141,  // Skeletal bottoms
+    6147,  // Skeletal gloves
+    6153,  // Skeletal boots
+    // Smiths’ Uniform
+    26280, // Smiths' chest
+    26282, // Smiths' legs
+    26284, // Smiths' gloves
+    26286, // Smiths' boots
+    // Swampbark Armour
+    24786, // Swampbark helm
+    24788, // Swampbark body
+    24790, // Swampbark legs
+    // Tribal Outfits (Blue)
+    6384,  // Blue tribal top
+    6386,  // Blue tribal skirt
+    6390,  // Blue villager hat
+    6388,  // Blue villager robe
+    6392,  // Blue villager armband
+    // Tribal Outfits (Brown)
+    6354,  // Brown tribal top
+    6356,  // Brown tribal skirt
+    6360,  // Brown villager hat
+    6358,  // Brown villager robe
+    6362,  // Brown villager armband
+    // Tribal Outfits (Pink)
+    6374,  // Pink tribal top
+    6376,  // Pink tribal skirt
+    6380,  // Pink villager hat
+    6378,  // Pink villager robe
+    6382,  // Pink villager armband
+    // Tribal Outfits (Yellow)
+    6364,  // Yellow tribal top
+    6366,  // Yellow tribal skirt
+    6370,  // Yellow villager hat
+    6368,  // Yellow villager robe
+    6372,  // Yellow villager armband
+    // Twilight Emissary Robes
+    25578, // Twilight emissary hood
+    25580, // Twilight emissary robe top
+    25582, // Twilight emissary robe bottom
+    // Virtus Robes
+    26096, // Virtus mask
+    26099, // Virtus robe top
+    26102, // Virtus robe bottom
+    // Virtus Robes (Echo)
+    26241, // Echo virtus mask
+    26244, // Echo virtus robe top
+    26247, // Echo virtus robe bottom
+    // Warm Gloves
+    23064, // Warm gloves
+    // Zealot’s Robes
+    24883, // Zealot's helm
+    24885, // Zealot's robe top
+    24887, // Zealot's robe bottom
+    24889  // Zealot's boots
+  ],
+  "TOY_BOX": [
+    // Individual Items
+    1037,  // Bunny ears
+    1050,  // Santa hat
+    1053,  // Green h'ween mask
+    1055,  // Blue h'ween mask
+    1057,  // Red h'ween mask
+    4566,  // Rubber chicken
+    4565,  // Scythe
+    981,   // Red nose
+    6864,  // Yo-yo
+    6866,  // Easter egg
+    13258, // Pumpkin
+    13646, // Reindeer hat
+    13655, // Easter basket
+    19730, // Partyhat & specs
+    6722,  // Zombie head
+    7594,  // Grim reaper hood
+    11847, // Black h'ween mask
+    26354, // Rainbow partyhat
+    19724, // Cat ears
+    19726, // Hell cat ears
+    19893, // Cabbage cape
+    19894, // Cruciferous codex
+    25253, // Giant present
+    12371, // Gnome child hat
+    13173, // Hornwood helm
+    22302, // Jonas mask
+    24171, // Love crossbow
+    25255, // Sack of presents
+    11949, // Snow globe
+    19708, // 4th birthday hat
+    19710, // Birthday balloons
+    25823, // Easter egg helm
+    23332, // Hand fan
+    24167, // Rainbow scarf
+    20113, // Runefest shield
+    25259, // Snow imp costume head
+    25261, // Snow imp costume body
+    25263, // Snow imp costume legs
+    25265, // Snow imp costume tail
+    25267, // Snow imp costume gloves
+    25269, // Snow imp costume feet
+    25257, // Wise old man's santa hat
+    22315, // Prop sword
+    25271, // Christmas tree star-face
+    25273, // Christmas tree top
+    25275, // Christmas tree skirt
+    12845, // Candy cane
+    18839, // Birthday cake
+    25825, // Bunnyman mask
+    25827, // Giant easter egg
+    25277, // Giant boulder
+    25821, // Carrot sword
+    25822, // '24-carat' sword
+    25824, // Magic egg ball
+    10996, // Goblin decorations
+    24397, // Headless head
+    24399, // Magical pumpkin
+    25204, // Banana hat
+    25206, // Cursed banana
+    25208, // Festive elf hat
+    25210, // Festive elf slippers
+    24852, // Gnome child mask
+    24854, // Gnome child icon
+    25820, // Gregg's eastdoor
+    25847, // Haunted wine bottle
+    25279, // Snowman ring
+    25826, // Propeller hat
+    20077, // Saucepan
+    25281, // Secret santa present (red)
+    25283, // Secret santa present (blue)
+    25285, // Secret santa present (green)
+    25287, // Secret santa present (black)
+    25289, // Secret santa present (gold)
+    25801, // Ugly halloween jumper (orange)
+    25803, // Ugly halloween jumper (black)
+    25291, // Sack of coal
+    25828, // Crate ring
+    25829, // Easter hat
+    25293, // Festive games crown
+    25295, // Christmas jumper
+    25800, // Halloween wig
+    25158, // Nutcracker hat
+    25160, // Nutcracker top
+    25162, // Nutcracker trousers
+    25164, // Nutcracker boots
+    25166, // Nutcracker staff
+    24169, // Flower crown
+    24856, // Skis
+    25297, // Santa's list
+    25299, // Snow goggles & hat
+    25851, // Treat cauldron
+    // Marionette Set
+    6856,  // Marionette (red)
+    6857,  // Marionette (green)
+    6858,  // Marionette (blue)
+    // Skeleton Outfit
+    13260, // Skeleton mask
+    13261, // Skeleton shirt
+    13262, // Skeleton leggings
+    13263, // Skeleton gloves
+    13264, // Skeleton boots
+    // Christmas Hats
+    2633,  // Bobble hat
+    2635,  // Jester hat
+    2637,  // Tri-jester hat
+    3327,  // Woolly hat
+    // Christmas Scarves
+    3329,  // Bobble scarf
+    3331,  // Jester scarf
+    3333,  // Tri-jester scarf
+    3335,  // Woolly scarf
+    // Cow Outfit
+    25859, // Cow mask
+    25861, // Cow top
+    25863, // Cow trousers
+    25865, // Cow gloves
+    25867, // Cow shoes
+    // Antisanta Outfit
+    12887, // Antisanta mask
+    12888, // Antisanta jacket
+    12889, // Antisanta pantaloons
+    12890, // Antisanta gloves
+    12891, // Antisanta boots
+    // Bunny Outfit
+    20246, // Bunny top
+    20248, // Bunny legs
+    20250, // Bunny paws
+    20252, // Bunny feet
+    // Big Cat Toys
+    23345, // Tiger toy
+    23348, // Lion toy
+    23351, // Snow leopard toy
+    23354, // Amur leopard toy
+    // Gravedigger Outfit
+    25829, // Gravedigger mask
+    25831, // Gravedigger top
+    25833, // Gravedigger leggings
+    25835, // Gravedigger gloves
+    25837, // Gravedigger boots
+    // Gingerbread Shields
+    25195, // Gingerbread shield (green)
+    25197, // Gingerbread shield (red)
+    25199, // Gingerbread shield (blue)
+    // Pumpkin/Skeleton Lantern
+    6720,  // Pumpkin lantern
+    6721,  // Skeleton lantern
+    // Spooky Outfit
+    25811, // Spooky hood
+    25813, // Spooky robe
+    25815, // Spooky skirt
+    25817, // Spooky gloves
+    25819, // Spooky boots
+    // Spookier Outfit
+    25805, // Spookier hood
+    25807, // Spookier robe
+    25809, // Spookier skirt
+    25811, // Spookier gloves
+    25813, // Spookier boots
+    // 20th Anniversary Outfit
+    24838, // 20th anniversary hat
+    24840, // 20th anniversary top
+    24842, // 20th anniversary bottoms
+    24844, // 20th anniversary necklace
+    24846, // 20th anniversary cape
+    24848, // 20th anniversary gloves
+    24850, // 20th anniversary boots
+    // 10th Birthday Outfit
+    25539, // 10th birthday cape
+    25541, // 10th birthday balloons
+    25543, // 10th birthday cake hat
+    25545, // 10th birthday jumper
+    // Birthday Plush
+    25547, // Gnome child plush
+    25549, // Stray dog plush
+    25551, // Jad plush
+    // Birthday Slippers
+    25553, // Bob the cat slippers
+    25555, // Jad slippers
+    // Gnome Child Backpack
+    25557, // Gnome child backpack
+    // Mystic Cards
+    20116, // Mystic cards
+    // War Ship
+    24858, // War ship
+    // Giant Bronze Dagger
+    25830, // Giant bronze dagger
+    // Eastfloor Spade
+    25831, // Eastfloor spade
+    // Nest Hat
+    25832, // Nest hat
+    // Egg Priest Outfit
+    25833, // Egg priest mitre
+    25834, // Egg priest robe top
+    25835, // Egg priest robe
+    25836, // Egg priest necklace
+    // Carrot Costume
+    25837, // Carrot hat
+    25838, // Carrot body
+    25839, // Carrot tights
+    25840  // Carrot gloves
+  ],
+  "TREASURE_CHEST": [
+    // Beginner Sets
+    19707, // Amulet of defence (t)
+    23252, // Bear feet
+    23258, // Demon feet
+    23288, // Frog slippers
+    23282, // Jester cape
+    23294, // Mole slippers
+    23303, // Monk's robe top (t)
+    23306, // Monk's robe (t)
+    12391, // Rune scimitar (guthix)
+    12393, // Rune scimitar (saradomin)
+    12395, // Rune scimitar (zamorak)
+    23315, // Sandwich lady hat
+    23318, // Sandwich lady top
+    23321, // Sandwich lady bottom
+    23300, // Shoulder parrot
+    // Easy Sets
+    10366, // Amulet of magic (t)
+    10364, // Amulet of power (t)
+    12245, // Beanie
+    12247, // Black beret
+    2635,  // Blue beret
+    2633,  // Red beret
+    12249, // White beret
+    2587,  // Black platebody (g)
+    2583,  // Black platelegs (g)
+    2585,  // Black full helm (g)
+    2589,  // Black kiteshield (g)
+    2595,  // Black platebody (t)
+    2591,  // Black platelegs (t)
+    2593,  // Black full helm (t)
+    2597,  // Black kiteshield (t)
+    7336,  // Black helm (h1)
+    7342,  // Black helm (h2)
+    7348,  // Black helm (h3)
+    7354,  // Black helm (h4)
+    7360,  // Black helm (h5)
+    7332,  // Black shield (h1)
+    7338,  // Black shield (h2)
+    7344,  // Black shield (h3)
+    7350,  // Black shield (h4)
+    7356,  // Black shield (h5)
+    7334,  // Black platebody (h1)
+    7340,  // Black platebody (h2)
+    7346,  // Black platebody (h3)
+    7352,  // Black platebody (h4)
+    7358,  // Black platebody (h5)
+    12297, // Black pickaxe
+    12375, // Black cane
+    23351, // Cape of skulls
+    10280, // Willow comp bow
+    7390,  // Blue elegant skirt
+    7394,  // Blue elegant shirt
+    7392,  // Green elegant skirt
+    7396,  // Green elegant shirt
+    7386,  // Red elegant skirt
+    7390,  // Red elegant shirt
+    10316, // Flared trousers
+    20208, // Golden apron
+    20205, // Golden chef's hat
+    23360, // Ham joint
+    2631,  // Highwayman mask
+    20181, // Iron platebody (g)
+    20184, // Iron platelegs (g)
+    20187, // Iron full helm (g)
+    20190, // Iron kiteshield (g)
+    20193, // Iron platebody (t)
+    20196, // Iron platelegs (t)
+    20199, // Iron full helm (t)
+    20202, // Iron kiteshield (t)
+    20080, // Large spade
+    23264, // Leather body (g)
+    23267, // Leather chaps (g)
+    23273, // Goblin mask
+    23276, // Imp mask
+    20217, // Monk's robe top (g)
+    20220, // Monk's robe (g)
+    10396, // Pantaloons
+    23357, // Rain bow
+    10398, // Sleeping cap
+    23363, // Staff of bob the cat
+    20166, // Steel platebody (g)
+    20169, // Steel platelegs (g)
+    20172, // Steel full helm (g)
+    20175, // Steel kiteshield (g)
+    20178, // Steel platebody (t)
+    20181, // Steel platelegs (t)
+    20184, // Steel full helm (t)
+    20187, // Steel kiteshield (t)
+    7370,  // Green d'hide body (g)
+    7372,  // Green d'hide chaps (g)
+    7374,  // Green d'hide body (t)
+    7376,  // Green d'hide chaps (t)
+    12598, // Holy sandals
+    20251, // Arceuus banner
+    20254, // Hosidius banner
+    20257, // Lovakengj banner
+    20260, // Piscarilius banner
+    20263, // Shayzien banner
+    12359, // Leprechaun hat
+    12361, // Black leprechaun hat
+    23279, // Black unicorn mask
+    12335, // Cat mask
+    12337, // Penguin mask
+    23282, // White unicorn mask
+    12339, // Wolf mask
+    20211, // Wooden shield (g)
+    // Medium Sets
+    2605,  // Adamant helm (g)
+    2599,  // Adamant platebody (g)
+    2601, // Adamant platelegs (g)
+    2603, // Adamant kiteshield (g)
+    2613, // Adamant helm (t)
+    2607, // Adamant platebody (t)
+    2609, // Adamant platelegs (t)
+    2611, // Adamant kiteshield (t)
+    8666, // Adamant helm (h1)
+    8672, // Adamant helm (h2)
+    8678, // Adamant helm (h3)
+    8684, // Adamant helm (h4)
+    8690, // Adamant helm (h5)
+    8660, // Adamant shield (h1)
+    8666, // Adamant shield (h2)
+    8672, // Adamant shield (h3)
+    8678, // Adamant shield (h4)
+    8684, // Adamant shield (h5)
+    8662, // Adamant platebody (h1)
+    8668, // Adamant platebody (h2)
+    8674, // Adamant platebody (h3)
+    8680, // Adamant platebody (h4)
+    8686, // Adamant platebody (h5)
+    10362, // Strength amulet (t)
+    20272, // Cabbage round shield
+    12377, // Adamant cane
+    23300, // Climbing boots (g)
+    10416, // Black elegant skirt
+    10436, // Black elegant blouse
+    10418, // White elegant skirt
+    10438, // White elegant blouse
+    10414, // Gold elegant skirt
+    10434, // Gold elegant shirt
+    10412, // Pink elegant skirt
+    10432, // Pink elegant blouse
+    10410, // Purple elegant skirt
+    10430, // Purple elegant blouse
+    12307, // Black headband
+    12309, // Blue headband
+    12311, // Brown headband
+    12313, // Gold headband
+    12315, // Green headband
+    12317, // Pink headband
+    12319, // Red headband
+    12321, // White headband
+    12283, // Mithril helm (g)
+    12279, // Mithril platebody (g)
+    12281, // Mithril platelegs (g)
+    12285, // Mithril kiteshield (g)
+    12293, // Mithril helm (t)
+    12289, // Mithril platebody (t)
+    12291, // Mithril platelegs (t)
+    12295, // Mithril kiteshield (t)
+    2577,  // Ranger boots
+    23389, // Spiked manacles
+    12333, // Black boater
+    12325, // Blue boater
+    12329, // Green boater
+    12331, // Orange boater
+    12327, // Pink boater
+    12335, // Purple boater
+    12323, // Red boater
+    12337, // White boater
+    20110, // Crier hat
+    20112, // Crier coat
+    20114, // Crier bell
+    2579,  // Wizard boots
+    12341, // Wolf cloak
+    // Hard Sets
+    10338, // 3rd age robe top
+    10340, // 3rd age robe
+    10342, // 3rd age hat
+    10344, // 3rd age amulet
+    10346, // 3rd age range coif
+    10348, // 3rd age range top
+    10350, // 3rd age range legs
+    10352, // 3rd age vambraces
+    7378,  // Blue d'hide body (g)
+    7380,  // Blue d'hide chaps (g)
+    7382,  // Blue d'hide body (t)
+    7384,  // Blue d'hide chaps (t)
+    12379, // Rune cane
+    12323, // Black cavalier
+    12329, // Navy cavalier
+    12327, // Tan cavalier
+    12325, // Dark cavalier
+    12321, // Red cavalier
+    12331, // White cavalier
+    2639,  // Cavalier mask
+    10284, // Magic comp bow
+    23285, // Cyclops head
+    12363, // Black dragon mask
+    12365, // Blue dragon mask
+    12367, // Green dragon mask
+    12369, // Red dragon mask
+    19921, // Ancient d'hide boots
+    19924, // Bandos d'hide boots
+    19927, // Zamorak d'hide boots
+    19930, // Armadyl d'hide boots
+    19933, // Guthix d'hide boots
+    19936, // Saradomin d'hide boots
+    22275, // Ancient d'hide shield
+    22278, // Armadyl d'hide shield
+    22281, // Bandos d'hide shield
+    22284, // Guthix d'hide shield
+    22287, // Saradomin d'hide shield
+    22290, // Zamorak d'hide shield
+    23291, // Dual sai
+    7362,  // Enchanted hat
+    7364,  // Enchanted top
+    7366,  // Enchanted robe
+    12514, // Explorer backpack
+    23294, // Nunchaku
+    2651,  // Pirate hat
+    12391, // Pith helmet
+    12329, // Red d'hide body (g)
+    12331, // Red d'hide chaps (g)
+    12333, // Red d'hide body (t)
+    12335, // Red d'hide chaps (t)
+    2581,  // Robin hood hat
+    12343, // Gilded 2h sword
+    12347, // Gilded spear
+    12345, // Gilded sq shield
+    12351, // Gilded med helm
+    12349, // Gilded chainbody
+    12460, // Ancient blessed helm
+    12462, // Ancient blessed body
+    12464, // Ancient blessed legs
+    12466, // Armadyl blessed helm
+    12468, // Armadyl blessed body
+    12470, // Armadyl blessed legs
+    12472, // Bandos blessed helm
+    12474, // Bandos blessed body
+    12476, // Bandos blessed legs
+    2653,  // Zamorak platebody
+    2655,  // Zamorak platelegs
+    2657,  // Zamorak full helm
+    2659,  // Zamorak kiteshield
+    2661,  // Saradomin platebody
+    2663,  // Saradomin platelegs
+    2665,  // Saradomin full helm
+    2667,  // Saradomin kiteshield
+    2669,  // Guthix platebody
+    2671,  // Guthix platelegs
+    2673,  // Guthix full helm
+    2675,  // Guthix kiteshield
+    2615, // Rune helm (g)
+    2619, // Rune platebody (g)
+    2621, // Rune platelegs (g)
+    2623, // Rune kiteshield (g)
+    2627, // Rune helm (t)
+    2623, // Rune platebody (t)
+    2625, // Rune platelegs (t)
+    2629, // Rune kiteshield (t)
+    8702, // Rune helm (h1)
+    8708, // Rune helm (h2)
+    8714, // Rune helm (h3)
+    8720, // Rune helm (h4)
+    8726, // Rune helm (h5)
+    8696, // Rune shield (h1)
+    8702, // Rune shield (h2)
+    8708, // Rune shield (h3)
+    8714, // Rune shield (h4)
+    8720, // Rune shield (h5)
+    8698, // Rune platebody (h1)
+    8704, // Rune platebody (h2)
+    8710, // Rune platebody (h3)
+    8716, // Rune platebody (h4)
+    8722, // Rune platebody (h5)
+    23297, // Thieving bag
+    // Elite Sets
+    12426, // 3rd age bow
+    12437, // 3rd age longsword
+    12424, // 3rd age wand
+    20050, // 3rd age druidic cloak
+    20053, // 3rd age druidic robe top
+    20056, // 3rd age druidic robe bottoms
+    20059, // 3rd age druidic staff
+    26008, // 3rd age felling axe
+    20014, // 3rd age pickaxe
+    12397, // Afro
+    12381, // Black d'hide body (g)
+    12383, // Black d'hide chaps (g)
+    12385, // Black d'hide body (t)
+    12387, // Black d'hide chaps (t)
+    19988, // Blacksmith's helm
+    12337, // Briefcase
+    19991, // Bucket helm
+    12373, // Dragon cane
+    12335, // Deerstalker
+    23200, // Adamant dragon mask
+    23203, // Bronze dragon mask
+    23206, // Iron dragon mask
+    23212, // Lava dragon mask
+    23209, // Mithril dragon mask
+    23215, // Rune dragon mask
+    23218, // Steel dragon mask
+    20000, // Dragon scimitar (or)
+    23124, // Gilded d'hide body
+    23127, // Gilded d'hide chaps
+    23130, // Gilded d'hide vambraces
+    23246, // Fremennik kilt
+    23249, // Giant boot
+    19997, // Holy wraps
+    12389, // Katana
+    19943, // Arceuus scarf
+    19946, // Hosidius scarf
+    19949, // Lovakengj scarf
+    19952, // Piscarilius scarf
+    19955, // Shayzien scarf
+    12353, // Monocle
+    12347, // Musketeer hat
+    12349, // Musketeer tabard
+    12351, // Musketeer trousers
+    12399, // Partyhat & specs
+    12412, // Pirate hat & patch
+    23255, // Big pirate hat
+    2323,  // Ranger gloves
+    2326,  // Ranger tights
+    2329,  // Ranger boots
+    23185, // Ring of 3rd age
+    20005, // Ring of nature
+    23233, // Royal crown
+    23236, // Royal robe top
+    23239, // Royal robe bottom
+    12361, // Gilded axe
+    23242, // Gilded boots
+    12371, // Gilded pickaxe
+    12369, // Gilded scimitar
+    12363, // Gilded spade
+    12337, // Sagacious spectacles
+    12432, // Top hat
+    12434, // Top hat & monocle
+    19958, // Dark tuxedo jacket
+    19961, // Dark tuxedo trousers
+    19964, // Dark tuxedo shoes
+    19967, // Light tuxedo jacket
+    19970, // Light tuxedo trousers
+    19973, // Light tuxedo shoes
+    23288, // Uri's hat
+    // Master Sets
+    20011, // 3rd age axe
+    20116, // Ankou mask
+    20119, // Ankou top
+    20122, // Ankou leggings
+    20125, // Ankou gloves
+    20128, // Ankou socks
+    20131, // Bowl wig
+    20059, // Bucket helm (g)
+    19724, // Eye patch
+    20008, // Fancy tiara
+    20002, // Half moon spectacles
+    20146, // Arceuus hood
+    20149, // Hosidius hood
+    20152, // Lovakengj hood
+    20155, // Piscarilius hood
+    20158, // Shayzien hood
+    20170, // Black demon mask
+    20173, // Greater demon mask
+    20176, // Jungle demon mask
+    20179, // Lesser demon mask
+    20182, // Old demon mask
+    20080, // Mummy mask
+    20083, // Mummy top
+    20086, // Mummy leggings
+    20089, // Mummy gloves
+    20092, // Mummy socks
+    20050, // Obsidian cape (r)
+    20017, // Ring of coins
+    20131, // Robes of darkness hood
+    20134, // Robes of darkness top
+    20137, // Robes of darkness robe
+    20035, // Samurai kasa
+    20038, // Samurai shirt
+    20041, // Samurai trousers
+    20044, // Samurai greaves
+    20095, // Scroll sack
+  ],
+  "CAPE_RACK": [
+    // Cooking Cape
+    9747,  // Cooking cape
+    9748,  // Cooking cape (t)
+    // Woodcutting Cape
+    9750,  // Woodcutting cape
+    9751,  // Woodcutting cape (t)
+    // Fishing Cape
+    9753,  // Fishing cape
+    9754,  // Fishing cape (t)
+    // Mining Cape
+    9756,  // Mining cape
+    9757,  // Mining cape (t)
+    // Smithing Cape
+    9759,  // Smithing cape
+    9760,  // Smithing cape (t)
+    // Farming Cape
+    9762,  // Farming cape
+    9763,  // Farming cape (t)
+    // Runecraft Cape
+    9765,  // Runecraft cape
+    9766,  // Runecraft cape (t)
+    // Crafting Cape
+    9768,  // Crafting cape
+    9769,  // Crafting cape (t)
+    // Prayer Cape
+    9771,  // Prayer cape
+    9772,  // Prayer cape (t)
+    // Magic Cape
+    9774,  // Magic cape
+    9775,  // Magic cape (t)
+    // Ranging Cape
+    9777,  // Ranging cape
+    9778,  // Ranging cape (t)
+    // Hitpoints Cape
+    9780,  // Hitpoints cape
+    9781,  // Hitpoints cape (t)
+    // Agility Cape
+    9783,  // Agility cape
+    9784,  // Agility cape (t)
+    // Herblore Cape
+    9786,  // Herblore cape
+    9787,  // Herblore cape (t)
+    // Thieving Cape
+    9789,  // Thieving cape
+    9790,  // Thieving cape (t)
+    // Fletching Cape
+    9792,  // Fletching cape
+    9793,  // Fletching cape (t)
+    // Slayer Cape
+    9795,  // Slayer cape
+    9796,  // Slayer cape (t)
+    // Hunter Cape
+    9798,  // Hunter cape
+    9799,  // Hunter cape (t)
+    // Construction Cape
+    9801,  // Construction cape
+    9802,  // Construction cape (t)
+    // Attack Cape
+    9804,  // Attack cape
+    9805,  // Attack cape (t)
+    // Strength Cape
+    9807,  // Strength cape
+    9808,  // Strength cape (t)
+    // Defence Cape
+    9810,  // Defence cape
+    9811,  // Defence cape (t)
+    // Firemaking Cape
+    9813,  // Firemaking cape
+    9814,  // Firemaking cape (t)
+    // Achievement Diary Cape
+    13069, // Achievement diary cape
+    13070, // Achievement diary hood
+    // Gauntlet Cape
+    24707, // Gauntlet cape
+    // Icthlarin’s Shroud (Tier 1-5)
+    25873, // Icthlarin's shroud (tier 1)
+    25875, // Icthlarin's shroud (tier 2)
+    25877, // Icthlarin's shroud (tier 3)
+    25879, // Icthlarin's shroud (tier 4)
+    25881, // Icthlarin's shroud (tier 5)
+    // Cape of Legends
+    1052,  // Cape of legends
+    // Guthix/Saradomin/Zamorak Capes
+    2412,  // Guthix cape
+    2413,  // Saradomin cape
+    2414,  // Zamorak cape
+    // Music Cape
+    13221, // Music cape
+    13222, // Music hood
+    // Mythical Cape
+    22114, // Mythical cape
+    // Obsidian Cape
+    6568,  // Obsidian cape
+    // Quest Point Cape
+    9813,  // Quest point cape
+    9814,  // Quest point hood
+    // Soul Cape
+    25107, // Soul cape
+    // Sinhaza Shroud (Tier 1-5)
+    22494, // Sinhaza shroud (tier 1)
+    22496, // Sinhaza shroud (tier 2)
+    22498, // Sinhaza shroud (tier 3)
+    22500, // Sinhaza shroud (tier 4)
+    22502, // Sinhaza shroud (tier 5)
+    // Spotted/Spottier Cape
+    10069, // Spotted cape
+    10071, // Spottier cape
+    // Victor’s Cape (1, 10, 50, 100, 500, 1000)
+    22336, // Victor's cape (1)
+    22338, // Victor's cape (10)
+    22340, // Victor's cape (50)
+    22342, // Victor's cape (100)
+    22344, // Victor's cape (500)
+    22346, // Victor's cape (1000)
+    // Team Capes
+    4315,  // Team cape zero
+    4317,  // Team cape i
+    4319,  // Team cape x
+    // Special Capes
+    6570,  // Fire cape
+    21295, // Infernal cape
+    13329, // Max cape
+    13330, // Max hood
+    21776, // Imbued saradomin cape
+    21780, // Imbued guthix cape
+    21784  // Imbued zamorak cape
+  ],
+  "FANCY_DRESS_BOX": [
+    // Mime Outfit
+    3057,  // Mime mask
+    3058,  // Mime top
+    3059,  // Mime legs
+    3060,  // Mime gloves
+    3061,  // Mime boots
+    // Zombie Outfit
+    7592,  // Zombie mask
+    7593,  // Zombie shirt
+    7594,  // Zombie trousers
+    7595,  // Zombie gloves
+    7596,  // Zombie boots
+    // Skeleton Outfit
+    6182,  // Skeleton mask
+    6184,  // Skeleton shirt
+    6185,  // Skeleton leggings
+    6186,  // Skeleton gloves
+    6187,  // Skeleton boots
+    // Chicken Outfit
+    11021, // Chicken head
+    11019, // Chicken feet
+    11022, // Chicken wings
+    11020, // Chicken legs
+    // Leprechaun Outfit
+    12359, // Leprechaun hat
+    12361, // Black leprechaun hat
+    7323,  // Black unicycle
+    7325,  // Red unicycle
+    7327,  // Green unicycle
+    // Clown Outfit
+    14001, // Clown mask
+    14002, // Clown bow
+    14003, // Clown gown
+    14004, // Clown shoes
+    14005, // Clown leggings
+    // Frog Outfit
+    6188,  // Frog mask
+    6189,  // Frog slippers
+    6190,  // Frog legs
+    // Beekeeper Outfit
+    20240, // Beekeeper's hat
+    20242, // Beekeeper's top
+    20244, // Beekeeper's gloves
+    // Camouflage Outfit
+    2520,  // Camo helmet
+    2522,  // Camo top
+    2524,  // Camo bottoms
+    // Royal Frog Costume
+    6188,  // Royal frog mask
+    6189,  // Royal frog top
+    6190,  // Royal frog legs
+    // Lederhosen Outfit
+    6180,  // Lederhosen hat
+    6181,  // Lederhosen top
+    6182,  // Lederhosen shorts
+    // Shade Robes
+    546,   // Shade robe top
+    548,   // Shade robe
+    // Stale Baguette
+    19833, // Stale baguette
+    // Warlock Outfit
+    25894, // Warlock hat
+    25896, // Warlock top
+    25898, // Warlock legs
+    25900, // Warlock gloves
+    25902  // Warlock boots
+  ]
+}
