@@ -1,9 +1,17 @@
-.gradle
-build
+# IntelliJ and Eclipse
 .idea/
 .project
 .settings/
 .classpath
+
+# NetBeans
 nbactions.xml
 nb-configuration.xml
 nbproject/
+
+# Build output
+.gradle
+build
+
+# RuneLite
+.runelite/
