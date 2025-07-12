@@ -1,0 +1,8 @@
+{
+  "id": "pohstorage",
+  "provider": "biggturkk",
+  "name": "POH Storage",
+  "description": "Highlights items in your bank that can be stored in your POH",
+  "version": "1.0.0",
+  "tags": ["bank", "storage", "poh", "utility", "inventory"]
+}

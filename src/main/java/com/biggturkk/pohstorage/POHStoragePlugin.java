@@ -15,6 +15,8 @@ import net.runelite.client.plugins.Plugin;
 import net.runelite.client.plugins.PluginDescriptor;
 import net.runelite.client.ui.overlay.OverlayManager;
 import net.runelite.client.ui.overlay.components.LineComponent;
+import net.runelite.api.events.GameStateChanged;
+import net.runelite.api.GameState;
 
 import javax.inject.Inject;
 import java.util.ArrayList;
@@ -60,8 +62,8 @@ public class POHStoragePlugin extends Plugin
         renderedLines.clear();
         renderedLines.add(LineComponent.builder()
                 .left("POHStorage active")
-                .right("✓")
-                .build());
+        .right("✓")
+        .build());
 
         overlayManager.add(overlay);
     }
@@ -77,8 +79,8 @@ public class POHStoragePlugin extends Plugin
     @Subscribe
     public void onItemContainerChanged(ItemContainerChanged event)
     {
-        // Use raw ID 93 for bank container, as InventoryID.BANK is deprecated
-        if (event.getItemContainer().getId() != 93)
+        // Use raw ID 95 for bank container, as InventoryID.BANK is deprecated
+        if (event.getItemContainer().getId() != 95)
         {
             return;
         }
@@ -146,6 +148,17 @@ public class POHStoragePlugin extends Plugin
                     .left("POHStorage active")
                     .right("✓")
                     .build());
+        }
+    }
+    @Subscribe
+    public void onGameStateChanged(GameStateChanged event)
+    {
+        if (event.getGameState() == GameState.LOGIN_SCREEN
+                || event.getGameState() == GameState.HOPPING
+                || event.getGameState() == GameState.CONNECTION_LOST)
+        {
+            log.info("Clearing POHStorage renderings due to logout or lobby");
+            renderedLines.clear();
         }
     }
 
